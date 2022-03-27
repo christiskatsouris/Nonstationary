@@ -1,6 +1,6 @@
 # Nonstationary
 
-# Structural Break Testing
+# Structural Break Testing Example  
 
 ```R
 library("strucchange")
