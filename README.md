@@ -43,3 +43,11 @@ plot(bp.nfci)
 #Exctracting the breakpoint
 bp<-fs.nfci$breakpoint
 ```
+
+# References
+
+- Bai, Jushan, and Pierre Perron. "Estimating and testing linear models with multiple structural changes." Econometrica (1998): 47-78.
+- Zeileis, Achim, et al. "Monitoring structural change in dynamic econometric models." Journal of Applied Econometrics 20.1 (2005): 99-121.
+
+
+
