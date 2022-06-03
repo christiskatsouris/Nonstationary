@@ -6,6 +6,8 @@
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\rho x_{t-1} + \epsilon_t" title="\Large x_t = \rho x_{t-1} + \epsilon_t" />
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x_t=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
 ```R
 library("strucchange")
 
