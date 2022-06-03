@@ -4,7 +4,7 @@
 
 ## Example 1: Stationary first-order autoregressive model  
 
- x_t<sub>&rho;</sub>_t = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+\sum_{\forall i}{x_i^{2}}
 
 ```R
 library("strucchange")
