@@ -1,6 +1,8 @@
 # Nonstationary
 
-# Structural Break Testing Example  
+# Structural Break Testing 
+
+## Example  
 
 ```R
 library("strucchange")
@@ -43,6 +45,13 @@ plot(bp.nfci)
 #Exctracting the breakpoint
 bp<-fs.nfci$breakpoint
 ```
+
+
+
+
+
+
+
 
 # References
 
