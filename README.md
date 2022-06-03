@@ -2,7 +2,7 @@
 
 # Structural Break Testing 
 
-## Example  
+## Example 1: Stationary first-order autoregressive model  
 
 ```R
 library("strucchange")
@@ -28,7 +28,7 @@ d6 <- diff(exchange)
 
 nfci <- d5
 
-#F TESTS AND DETECTION OF BREAK for model trend and intercept
+# F-TESTS AND DETECTION OF BREAK for model trend and intercept
 
 nfci.new  <- nfci[1:(n-1)]
 nfci.diff <- diff(nfci)
@@ -42,16 +42,27 @@ bp.nfci <- breakpoints(nfci.new ~ nfci.diff)
 summary(bp.nfci)
 plot(bp.nfci)
 
-#Exctracting the breakpoint
-bp<-fs.nfci$breakpoint
+# Exctracting the breakpoint
+
+bp <- fs.nfci$breakpoint
 ```
 
+## Example 2: GARCH model (conditional heteroscedasticity)  
+
+```R
+
+# GARCH volatility model 
+specs1 <- garchSpec(model=list(alpha=alpha1, omega=omega1, beta=beta1)) 
+sigma1 <- garchSim(spec = specs1, n = n)
+
+est.garch <- garchFit(formula = ~ garch(1,1), data = sigma1[1:n], include.mean = FALSE, trace = F)
+est.par   <- est.garch@fit$par[1:3]
+innov     <- dat[1:n]/est.garch@sigma.t
+y <- (innov)^2
+x <- c(0, y[1:(n-1)])
 
 
-
-
-
-
+```
 
 # References
 
