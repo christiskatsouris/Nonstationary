@@ -4,7 +4,7 @@
 
 ## Example 1: Stationary first-order autoregressive model  
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x_t=x_{t-1}" title="\Large x_t=x_{t-1}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x_t= \rho x_{t-1} + \epsilon_t" title="\Large x_t= \rho x_{t-1} \epsilon_t" />
 
 ```R
 library("strucchange")
