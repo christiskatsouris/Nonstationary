@@ -4,7 +4,7 @@
 
 ## Example 1: Stationary first-order autoregressive model  
 
- h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+ x_t<sub>&rho;</sub>_t = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 ```R
 library("strucchange")
