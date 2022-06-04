@@ -8,6 +8,8 @@ The notion of "nonstationarity" in time series analysis and time series economet
 
 $$y_t = \rho y_{t-1} + e_t, \ \ \ t = 1,...,n, \ \ \ e_t \sim N (0,1).$$
 
+where $$0< \rho < 1$$.
+
 ```R
 library("strucchange")
 
