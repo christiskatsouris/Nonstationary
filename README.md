@@ -6,9 +6,8 @@ The notion of "nonstationarity" in time series analysis and time series economet
 
 ## Example 1: Stationary first-order autoregressive model  
 
-$$y_t = \rho y_{t-1} + e_t, \ \ \ t = 1,...,n, \ \ \ e_t \sim N (0,1).$$
+$$y_t = \rho y_{t-1} + e_t,  0< \rho < 1, \ \ \ t = 1,...,n, \ \ \ e_t \sim N (0,1).$$
 
-where $$0< \rho < 1$$.
 
 ```R
 library("strucchange")
