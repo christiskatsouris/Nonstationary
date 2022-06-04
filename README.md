@@ -4,7 +4,7 @@
 
 ## Example 1: Stationary first-order autoregressive model  
 
-$$y_t = \rho y_{t-1} + e_t, t = 1,...,n, e_t \sim N (0,1).$$
+$$y_t = \rho y_{t-1} + e_t, \ \ \ t = 1,...,n, \ \ \ e_t \sim N (0,1).$$
 
 ```R
 library("strucchange")
@@ -63,7 +63,16 @@ innov     <- dat[1:n]/est.garch@sigma.t
 y <- (innov)^2
 x <- c(0, y[1:(n-1)])
 
+# MODEL ESTIMATION 
+gspec.ru <- ugarchspec(mean.model=list(armaOrder=c(1,0)), distribution="norm" )
 
+garch.estim1 <- ugarchfit(gspec.ru, nfci)
+garch.estim2 <- ugarchfit(gspec.ru, risk)
+garch.estim3 <- ugarchfit(gspec.ru, credit)
+garch.estim4 <- ugarchfit(gspec.ru, leverage)
+
+garch.estim1
+persistence(garch.estim1)
 ```
 
 # References
