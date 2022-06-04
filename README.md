@@ -51,6 +51,8 @@ bp <- fs.nfci$breakpoint
 
 ## Example 2: GARCH model (conditional heteroscedasticity)  
 
+$$sigma^2_t = \alpha_0 + \alpha_1 \epsilon^2_{t-1} + \beta_1 sigma^2_{t-1}, \ \ \ t = 1,...,n, \ \ \ \epsilon_t = \sigma_t z_t, z_t \sim N (0,1).$$
+
 ```R
 
 # GARCH volatility model 
@@ -75,7 +77,7 @@ garch.estim1
 persistence(garch.estim1)
 ```
 
-# References
+## References
 
 - Bai, J., & Perron, P. (1998). Estimating and testing linear models with multiple structural changes. Econometrica, 47-78.
 - Bollerslev, T. (1986). Generalized autoregressive conditional heteroskedasticity. Journal of econometrics, 31(3), 307-327.
