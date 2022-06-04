@@ -6,7 +6,7 @@ The notion of "nonstationarity" in time series analysis and time series economet
 
 ## Example 1: Stationary first-order autoregressive model  
 
-$$y_t = \rho y_{t-1} + e_t,  0< \rho < 1, \ \ \ t = 1,...,n, \ \ \ e_t \sim N (0,1).$$
+$$y_t = \rho y_{t-1} + e_t, \ \ \ 0< \rho < 1, \ \ \ t = 1,...,n, \ \ \ e_t \sim N (0,1).$$
 
 
 ```R
@@ -57,6 +57,8 @@ bp <- fs.nfci$breakpoint
 $$\sigma^2_t = \alpha_0 + \alpha_1 \epsilon^2_{t-1} + \beta_1 \sigma^2_{t-1}, \ \ \ t = 1,...,n, \ \ \ \epsilon_t = \sigma_t z_t, \ \ z_t \sim N (0,1).$$
 
 ```R
+
+library("fGarch")
 
 # GARCH volatility model 
 specs1 <- garchSpec(model=list(alpha=alpha1, omega=omega1, beta=beta1)) 
