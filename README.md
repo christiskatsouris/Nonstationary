@@ -68,8 +68,10 @@ x <- c(0, y[1:(n-1)])
 
 # References
 
-- Bai, Jushan, and Pierre Perron. "Estimating and testing linear models with multiple structural changes." Econometrica (1998): 47-78.
-- Zeileis, Achim, et al. "Monitoring structural change in dynamic econometric models." Journal of Applied Econometrics 20.1 (2005): 99-121.
+- Bai, J., & Perron, P. (1998). Estimating and testing linear models with multiple structural changes. Econometrica, 47-78.
+- Bollerslev, T. (1986). Generalized autoregressive conditional heteroskedasticity. Journal of econometrics, 31(3), 307-327.
+- Zeileis, A., Leisch, F., Kleiber, C., & Hornik, K. (2005). Monitoring structural change in dynamic econometric models. Journal of Applied Econometrics, 20(1), 99-121.
+
 
 
 
