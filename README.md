@@ -51,7 +51,7 @@ bp <- fs.nfci$breakpoint
 
 ## Example 2: GARCH model (conditional heteroscedasticity)  
 
-$$sigma^2_t = \alpha_0 + \alpha_1 \epsilon^2_{t-1} + \beta_1 sigma^2_{t-1}, \ \ \ t = 1,...,n, \ \ \ \epsilon_t = \sigma_t z_t, z_t \sim N (0,1).$$
+$$\sigma^2_t = \alpha_0 + \alpha_1 \epsilon^2_{t-1} + \beta_1 \sigma^2_{t-1}, \ \ \ t = 1,...,n, \ \ \ \epsilon_t = \sigma_t z_t, \ \ z_t \sim N (0,1).$$
 
 ```R
 
