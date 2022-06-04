@@ -34,7 +34,6 @@ d6 <- diff(exchange)
 nfci <- d5
 
 # F-TESTS AND DETECTION OF BREAK for model trend and intercept
-
 nfci.new  <- nfci[1:(n-1)]
 nfci.diff <- diff(nfci)
 
@@ -48,8 +47,10 @@ summary(bp.nfci)
 plot(bp.nfci)
 
 # Exctracting the breakpoint
-
 bp <- fs.nfci$breakpoint
+
+
+
 ```
 
 ## Example 2: GARCH model (conditional heteroscedasticity)  
@@ -80,6 +81,9 @@ garch.estim4 <- ugarchfit(gspec.ru, leverage)
 
 garch.estim1
 persistence(garch.estim1)
+
+values1<-residuals(garch.estim1, standardize=FALSE)
+
 ```
 
 ## References
