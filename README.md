@@ -49,7 +49,19 @@ plot(bp.nfci)
 # Exctracting the breakpoint
 bp <- fs.nfci$breakpoint
 
-
+# Take series up to the breakpoint
+x <- as.vector(series[1:(bp-1)])
+y <- as.vector(series[2:bp])
+  
+series.cusum <- mefp(y ~ x, type=type, alpha=0.05, period=2, h=0.5, border=newboundary)
+  
+# take all the series and monitor
+x <- as.vector(series[1:(n-1)])
+y <- as.vector(series[2:n])
+  
+series.cusum <- monitor(series.cusum)
+stat <- round(series.cusum$statistic, digit=4)
+m    <- series.cusum$breakpoint  
 
 ```
 
@@ -86,10 +98,15 @@ values1<-residuals(garch.estim1, standardize=FALSE)
 
 ```
 
-## Example 3: CUSUM test statistic   
+## Example 3: CUSUM test statistic  
+
+```R
+
+```
 
 ## References
 
+- Andreou, E., & Ghysels, E. (2002). Detecting multiple breaks in financial market volatility dynamics. Journal of Applied Econometrics, 17(5), 579-600.
 - Bai, J., & Perron, P. (1998). Estimating and testing linear models with multiple structural changes. Econometrica, 47-78.
 - Bollerslev, T. (1986). Generalized autoregressive conditional heteroskedasticity. Journal of econometrics, 31(3), 307-327.
 - Zeileis, A., Leisch, F., Kleiber, C., & Hornik, K. (2005). Monitoring structural change in dynamic econometric models. Journal of Applied Econometrics, 20(1), 99-121.
