@@ -94,7 +94,7 @@ garch.estim4 <- ugarchfit(gspec.ru, leverage)
 garch.estim1
 persistence(garch.estim1)
 
-values1<-residuals(garch.estim1, standardize=FALSE)
+values1 <- residuals(garch.estim1, standardize=FALSE)
 
 ```
 
