@@ -1,6 +1,6 @@
 # Nonstationary
 
-# Structural Break Testing 
+# I. Structural Break Testing 
 
 The notion of "nonstationarity" in time series analysis and time series econometrics has various interpreations which depends on the exact modelling environment as well as the assumptions we impose on model parameters and moment conditions of innovation sequences. Here, we provide some examples related to nonstationarity in terms of the presence of parameter instability in commonly used models in empirical studies. Notice that for both examples, we assume that the model parameters are such that the underline stochastic processes are stationarity and ergodic.    
 
@@ -85,6 +85,8 @@ persistence(garch.estim1)
 values1<-residuals(garch.estim1, standardize=FALSE)
 
 ```
+
+## Example 3: CUSUM test statistic   
 
 ## References
 
