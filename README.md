@@ -132,7 +132,8 @@ mos.bound <- zoo( c(rep(NA,(bp-1)), newborder3(bp:n)), index(nfci) )
 plot( zoo(c(nfci.mosum$efpprocess, nfci.mosum$process), index(nfci)), 
       ylim = c(-5, 5), 
       xlab = "Time", ylab = "empirical fluctuation process",
-      main="OLS-MOSUM Process with Boundary 3")
+      main = "OLS-MOSUM Process with Boundary 3")
+      
 abline(0, 0)
 lines(mos.bound, col = 2)
 lines(-mos.bound, col = 2)
