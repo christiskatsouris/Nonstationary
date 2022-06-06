@@ -100,8 +100,8 @@ nfci.cusum  <- mefp(y ~ x, type="OLS-CUSUM", border=newborder3)
 
 # Step 2: Use the time series of the full sample 
 
-x<-as.vector(nfci[1:(n-1)])
-y<-as.vector(nfci[2:n])
+x <-as.vector(nfci[1:(n-1)])
+y <-as.vector(nfci[2:n])
 
 nfci.cusum <- monitor(nfci.cusum)
 stat <- round(nfci.cusum $statistic, digit=4)
@@ -119,8 +119,8 @@ nfci.mosum <- mefp(y ~ x, type="OLS-MOSUM", border=newborder3, h=0.5, alpha=0.05
 
 # Step 2: Use the time series of the full sample 
 
-x<-as.vector(nfci[1:(n-1)])
-y<-as.vector(nfci[2:n])
+x <- as.vector(nfci[1:(n-1)])
+y <- as.vector(nfci[2:n])
 
 nfci.mosum <- monitor(nfci.mosum)
 stat <- round(nfci.mosum$statistic, digit=4)
