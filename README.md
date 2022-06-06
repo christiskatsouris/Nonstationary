@@ -116,4 +116,6 @@ values1 <- residuals(garch.estim1, standardize=FALSE)
 
 - Gourieroux, C., & Jasiak, J. (2018). Financial econometrics. In Financial Econometrics. Princeton University Press.
 
+# II. Nonstationarity and Nonlinearity
 
+Modelling jointly nonstationarity and nonlinearity in time series econometrics is commonly captured using threshold autoregressive specifications.  
