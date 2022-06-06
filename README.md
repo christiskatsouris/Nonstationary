@@ -49,20 +49,6 @@ plot(bp.nfci)
 # Exctracting the breakpoint
 bp <- fs.nfci$breakpoint
 
-# Take series up to the breakpoint
-x <- as.vector(series[1:(bp-1)])
-y <- as.vector(series[2:bp])
-  
-series.cusum <- mefp(y ~ x, type=type, alpha=0.05, period=2, h=0.5, border=newboundary)
-  
-# take all the series and monitor
-x <- as.vector(series[1:(n-1)])
-y <- as.vector(series[2:n])
-  
-series.cusum <- monitor(series.cusum)
-stat <- round(series.cusum$statistic, digit=4)
-m    <- series.cusum$breakpoint  
-
 ```
 
 ## Example 2: GARCH model (conditional heteroscedasticity)  
@@ -101,6 +87,53 @@ values1 <- residuals(garch.estim1, standardize=FALSE)
 ## Example 3: CUSUM test statistic  
 
 ```R
+
+### CUSUM TEST ###
+
+# Step 1: Use the sub-sample of the times series with upper bound the estimated break-point
+
+x <- as.vector(series[1:(bp-1)])
+y <- as.vector(series[2:bp])
+n <- length(nfci)
+
+nfci.cusum  <- mefp(y ~ x, type="OLS-CUSUM", border=newborder3)
+
+# Step 2: Use the time series of the full sample 
+
+x<-as.vector(nfci[1:(n-1)])
+y<-as.vector(nfci[2:n])
+
+nfci.cusum <- monitor(nfci.cusum)
+stat <- round(nfci.cusum $statistic, digit=4)
+m    <- nfci.cusum $breakpoint  
+
+### MOSUM TEST ###
+
+# Step 1: Use the sub-sample of the times series with upper bound the estimated break-point
+
+x <- as.vector(series[1:(bp-1)])
+y <- as.vector(series[2:bp])
+n <- length(nfci)
+
+nfci.mosum <- mefp(y ~ x, type="OLS-MOSUM", border=newborder3, h=0.5, alpha=0.05, period=2)
+
+# Step 2: Use the time series of the full sample 
+
+x<-as.vector(nfci[1:(n-1)])
+y<-as.vector(nfci[2:n])
+
+nfci.mosum <- monitor(nfci.mosum)
+stat <- round(nfci.mosum$statistic, digit=4)
+m    <- nfci.mosum$breakpoint  
+
+mos.bound <- zoo( c(rep(NA,(bp-1)), newborder3(bp:n)), index(nfci) )
+
+# Ploting 
+plot(z oo(c(nfci.mosum$efpprocess, nfci.mosum$process), index(nfci)), ylim = c(-5, 5) , xlab = "Time", ylab = "empirical fluctuation process",
+       main="OLS-MOSUM Process with Boundary 3")
+abline(0, 0)
+lines(mos.bound, col = 2)
+lines(-mos.bound, col = 2)
 
 ```
 
