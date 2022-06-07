@@ -160,8 +160,8 @@ Modelling jointly nonstationarity and nonlinearity in time series econometrics i
 
 $$y_t = 
 \begin{cases}
-\alpha_1 + \beta_1^{\top} x_{t} + u_{t} , \ \ q_t \leq \gamma \\
-\alpha_2 + \beta_2^{\top} x_{t} + u_{t} , \ \ q_t > \gamma
+\alpha_1 + \beta_1^{\top} y_{t-1} + u_{t} , \ \ q_t \leq \gamma \\
+\alpha_2 + \beta_2^{\top} y_{t-1} + u_{t} , \ \ q_t > \gamma
 \end{cases}$$
 
 ```R
