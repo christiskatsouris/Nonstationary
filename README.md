@@ -164,6 +164,18 @@ $$y_t =
 \alpha_2 + \beta_2^{\top} x_{t} + u_{t} , \ \ q_t > \gamma
 \end{cases}$$
 
+```R
+
+library("chngpt")
+
+# Fitting Threshold Regression Models
+
+```
+
+## References
+
+Fong, Y., Huang, Y., Gilbert, P. B., & Permar, S. R. (2017). chngpt: Threshold regression model estimation and inference. BMC bioinformatics, 18(1), 1-7.
+
 ### Remarks
 
 1. In this teaching page, we present some examples for financial time series modelling using linear and non-linear time series models. We consider the notion of "nonstationarity" as the presence of time-variation in model parameters, which requires to employ structural break tests to identify the presence of breaks. 
