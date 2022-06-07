@@ -158,7 +158,7 @@ lines(-mos.bound, col = 2)
 
 # II. Nonstationarity and Nonlinearity
 
-Modelling jointly nonstationarity and nonlinearity in time series econometrics is commonly captured using threshold autoregressive specifications.  
+Modelling jointly nonstationarity and nonlinearity (e.g., "changing regime" dynamics) in time series econometrics is commonly captured using threshold autoregressive specifications and threshold regression models. A typology of these models is provided by the nature of the switching function F(.) as well as by the nature of the switching variable which can be either time index (strcuctural change) or a continuous variable (threshold variable).   
 
 ## Example 1: Threshold Autoregression Model
 
