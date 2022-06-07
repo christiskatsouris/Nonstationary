@@ -158,7 +158,7 @@ lines(-mos.bound, col = 2)
 
 # II. Nonstationarity and Nonlinearity
 
-Modelling jointly nonstationarity and nonlinearity (e.g., "changing regime" dynamics) in time series econometrics is commonly captured using threshold autoregressive specifications and threshold regression models. A typology of these models is provided by the nature of the switching function F(.) as well as by the nature of the switching variable which can be either time index (strcuctural change) or a continuous variable (threshold variable).   
+Modelling jointly nonstationarity and nonlinearity (e.g., "changing-regime" dynamics) in time series econometrics is commonly captured using threshold autoregressive specifications and threshold regression models. A typology of these models is provided by the nature of the switching function F(.) as well as by the nature of the switching variable which can be either time index (strcuctural change) or a continuous variable (threshold variable).   
 
 ## Example 1: Threshold Autoregression Model
 
@@ -182,7 +182,11 @@ library("chngpt")
 - Gonzalo, J., & Pitarakis, J. Y. (2002). Estimation and model selection based inference in single and multiple threshold models. Journal of Econometrics, 110(2), 319-352.
 - Fong, Y., Huang, Y., Gilbert, P. B., & Permar, S. R. (2017). chngpt: Threshold regression model estimation and inference. BMC bioinformatics, 18(1), 1-7.
 
-### Remarks
+## Further Reading
+- Tsay, R. S. (2005). Analysis of financial time series. John wiley & sons. (Chapter 4: Nonlinear Models and Their Applications)
+- Bauwens, L., Lubrano, M., & Richard, J. F. (2000). Bayesian inference in dynamic econometric models. OUP Oxford. (Chapter 8: Non-linear Time Series Models)
+
+# Remarks
 
 1. In this teaching page, we present some examples for financial time series modelling using linear and non-linear time series models. We consider the notion of "nonstationarity" as the presence of time-variation in model parameters, which requires to employ structural break tests to identify the presence of breaks. 
 
