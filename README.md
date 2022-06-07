@@ -10,6 +10,8 @@ $$y_t = \rho y_{t-1} + e_t, \ \ \ 0< \rho < 1, \ \ \ t = 1,...,n, \ \ \ e_t \sim
 
 
 ```R
+
+install.packages("strucchange")
 library("strucchange")
 
 # insert dataset
@@ -166,6 +168,7 @@ $$y_t =
 
 ```R
 
+install.packages("chngpt")
 library("chngpt")
 
 # Fitting Threshold Regression Models
