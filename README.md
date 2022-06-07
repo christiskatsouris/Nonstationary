@@ -156,6 +156,12 @@ lines(-mos.bound, col = 2)
 
 Modelling jointly nonstationarity and nonlinearity in time series econometrics is commonly captured using threshold autoregressive specifications.  
 
+$$y_t = 
+\begin{cases}
+\alpha_1 + \beta_1^{\top} x_{t-1} + u_{t} , \ \ q_t \leq \gamma \\
+\alpha_2 + \beta_2^{\top} x_{t-1} + u_{t} , \ \ q_t > \gamma
+\end{cases}$$
+
 ### Remarks
 
 1. In this teaching page, we present some examples for financial time series modelling using linear and non-linear time series models. We consider the notion of "nonstationarity" as the presence of time-variation in model parameters, which requires to employ structural break tests to identify the presence of breaks. 
