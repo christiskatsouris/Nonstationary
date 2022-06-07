@@ -156,6 +156,8 @@ lines(-mos.bound, col = 2)
 
 Modelling jointly nonstationarity and nonlinearity in time series econometrics is commonly captured using threshold autoregressive specifications.  
 
+## Example 1: Threshold Autoregression Model
+
 $$y_t = 
 \begin{cases}
 \alpha_1 + \beta_1^{\top} x_{t-1} + u_{t} , \ \ q_t \leq \gamma \\
