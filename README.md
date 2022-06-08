@@ -141,6 +141,9 @@ lines(mos.bound, col = 2)
 lines(-mos.bound, col = 2)
 
 ```
+## Assignment 1
+
+Using one of the following Statistical Software: R, Matlab or Stata prepare a short empirical study based a suitable time series dataset. Main focus is the use of linear (e.g., AR(1)) and non-linear (e.g., GARCH) financial time series models. The analysis could include: (i) testing for structural breaks using both retrospective and sequential break-point tests, (ii) Goodness-of-fit testing and/or specification testing.       
 
 ## References
 
@@ -180,6 +183,10 @@ library("chngpt")
 # Fitting Threshold Regression Models
 
 ```
+
+## Assignment 2
+
+Using one of the following Statistical Software: R, Matlab or Stata prepare a short empirical study based a suitable time series dataset. In your dataset include the [Economic Policy Uncertainy](https://www.policyuncertainty.com/) (EPU) index as one of the variables. Using a dependent variable of your choice, a set of control variables and EPU as the threshold variable, investigate an economic application by fitting an appropriate threshold model. Describe in details the research question and the modelling approach. Then, using your dataset evaluate the performance of the model and explain the econometric intuition of your findings. 
 
 ## References
 
