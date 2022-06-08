@@ -143,7 +143,7 @@ lines(-mos.bound, col = 2)
 ```
 ## Assignment 1
 
-Using one of the following Statistical Software: R, Matlab or Stata prepare a short empirical study based on a suitable time series dataset. Main focus is the use of linear (e.g., AR(1)) and non-linear (e.g., GARCH) financial time series models. The analysis should include: (i) testing for structural breaks using both retrospective and sequential break-point tests, (ii) Goodness-of-fit testing and/or specification testing.       
+Using one of the following Statistical Software: R, Matlab or Stata prepare a short empirical study based on a suitable time series dataset. The main focus is the use of linear (e.g., AR(1)) and non-linear (e.g., GARCH) financial time series models. The analysis should include: (i) model fitting and residual analysis, such as testing for the presence of autocorrelation in the residual series or testing for Arch/Garch effects and, (ii) testing for structural breaks using both retrospective and sequential break-point tests. 
 
 ## References
 
@@ -186,7 +186,7 @@ library("chngpt")
 
 ## Assignment 2
 
-Using one of the following Statistical Software: R, Matlab or Stata prepare a short empirical study based on a suitable time series dataset. In your dataset include the [Economic Policy Uncertainy](https://www.policyuncertainty.com/) (EPU) index as one of the variables. Using a dependent variable of your choice, a set of control variables and EPU as the threshold variable, investigate an economic application by fitting an appropriate threshold model. Describe in details the research question and the modelling approach. Then, using your dataset evaluate the performance of the model and explain the econometric intuition of your findings. 
+Using one of the following Statistical Software: R, Matlab or Stata prepare a short empirical study based on a suitable time series dataset. In your dataset include the [Economic Policy Uncertainy](https://www.policyuncertainty.com/) (EPU) index as one of the variables. Using a dependent variable of your choice, a set of control variables and EPU as the threshold variable, investigate an economic application by fitting an appropriate threshold model. Describe in details the research question and the modelling approach. Then, using your dataset evaluate the performance of the model and explain the econometric intuition of your findings. Hint: The research question of your study should be tackling an economic theory problem that supports the use of a threshold regression. Some examples include: poverty traps, technological traps, financial development traps or energy traps.  
 
 ## References
 
