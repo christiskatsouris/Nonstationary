@@ -143,7 +143,7 @@ lines(-mos.bound, col = 2)
 ```
 ## Assignment 1
 
-Using one of the following Statistical Software: R, Matlab or Stata prepare a short empirical study based a suitable time series dataset. Main focus is the use of linear (e.g., AR(1)) and non-linear (e.g., GARCH) financial time series models. The analysis could include: (i) testing for structural breaks using both retrospective and sequential break-point tests, (ii) Goodness-of-fit testing and/or specification testing.       
+Using one of the following Statistical Software: R, Matlab or Stata prepare a short empirical study based a suitable time series dataset. Main focus is the use of linear (e.g., AR(1)) and non-linear (e.g., GARCH) financial time series models. The analysis should include: (i) testing for structural breaks using both retrospective and sequential break-point tests, (ii) Goodness-of-fit testing and/or specification testing.       
 
 ## References
 
