@@ -58,6 +58,8 @@ bp <- fs.nfci$breakpoint
 
 $$\sigma^2_t = \alpha_0 + \alpha_1 \epsilon^2_{t-1} + \beta_1 \sigma^2_{t-1}, \ \ \ t = 1,...,n, \ \ \ \epsilon_t = \sigma_t z_t, \ \ z_t \sim N (0,1).$$
 
+The R code below fits a GARCH(1,1) model and obtains the estimated innovation sequences which can be used to test for structural breaks using standard retrospective tests. 
+
 ```R
 
 library("fGarch")
@@ -88,6 +90,8 @@ values1 <- residuals(garch.estim1, standardize=FALSE)
 ```
 
 ## Example 3: CUSUM test statistic  
+
+In this Example we present an application of a sequential monitoring framework which can be employed for testing for structural breaks in time series using the OLS-CUSUM and OLS-MOSUM statistics. 
 
 ```R
 
