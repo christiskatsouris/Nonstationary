@@ -210,4 +210,4 @@ Using one of the following Statistical Software: R, Matlab or Stata prepare a sh
 
 1. In this teaching page, we present some examples for financial time series modelling using linear and non-linear time series models. We consider the notion of "nonstationarity" as the presence of time-variation in model parameters, which requires to employ structural break tests to identify the presence of breaks. 
 
-2. A different stream of literature, namely "nonstationary time series econometrics" focuses on the development of asymptotic theory and inference methods for nonstationry time series models (e.g., using local-to-unity asymptotics). The presentation of the particular applications is beyond the scope of the current teaching page.   
+2. A different stream of literature, namely "nonstationary time series econometrics" focuses on the development of asymptotic theory and inference methods for nonstationary time series models (e.g., using local-to-unity asymptotics). The presentation of the particular applications is beyond the scope of the current teaching page.   
