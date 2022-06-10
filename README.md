@@ -188,7 +188,7 @@ library("chngpt")
 
 ## Assignment 2
 
-Using one of the following Statistical Software: R, Matlab or Stata prepare a short empirical study based on a suitable time series dataset. In your dataset include the [Economic Policy Uncertainy](https://www.policyuncertainty.com/) (EPU) index as one of the variables. Using a dependent variable of your choice, a set of control variables and EPU as the threshold variable, investigate an economic application by fitting an appropriate threshold model. Describe in details the research question and the modelling approach. Then, using your dataset evaluate the performance of the model and explain the econometric intuition of your findings. Hint: The research question of your study should be tackling an economic theory problem that supports the use of a threshold regression. Some examples include: poverty traps, technological traps, financial development traps or energy traps.  
+Using one of the following Statistical Software: R, Matlab or Stata prepare a short empirical study based on a suitable time series dataset. In your dataset include the [Economic Policy Uncertainy](https://www.policyuncertainty.com/) (EPU) index as one of the variables. Using a dependent variable of your choice, a set of control variables and EPU as the threshold variable, investigate an economic application by fitting an appropriate threshold model. Describe in details the research question and the modelling approach. Then, using your dataset evaluate the performance of the model and explain the econometric intuition of your findings. Hint: The research question of your study should be tackling an economic theory problem that supports the use of a threshold regression. Some examples include: poverty traps, technological traps, financial development traps, liquidity traps or energy traps.  
 
 ## References
 
@@ -197,6 +197,9 @@ Using one of the following Statistical Software: R, Matlab or Stata prepare a sh
 - Gonzalo, J., & Pitarakis, J. Y. (2002). Estimation and model selection based inference in single and multiple threshold models. Journal of Econometrics, 110(2), 319-352.
 - Yu, P. (2012). Likelihood estimation and inference in threshold regression. Journal of Econometrics, 167(1), 274-294.
 - Fong, Y., Huang, Y., Gilbert, P. B., & Permar, S. R. (2017). chngpt: Threshold regression model estimation and inference. BMC bioinformatics, 18(1), 1-7.
+- Galvao Jr, A. F., Montes-Rojas, G., & Olmo, J. (2013). A panel data test for poverty traps. Applied Economics, 45(14), 1943-1952.
+- Che, X., & Jiang, M. (2021). Economic Policy Uncertainty, Financial Expenditure and Energy Poverty: Evidence Based on a Panel Threshold Model. Sustainability, 13(21), 11594.
+- Peng, F., Cebula, R. J., Foley, M., & Zhan, K. (2016). Estimation of the liquidity trap using a panel threshold model. Applied Economics Letters, 23(16), 1134-1137.
 
 ## Further Reading
 - Tsay, R. S. (2005). Analysis of financial time series. John wiley & sons. (Chapter 4: Nonlinear Models and Their Applications)
