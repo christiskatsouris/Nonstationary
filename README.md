@@ -56,9 +56,15 @@ bp <- fs.nfci$breakpoint
 
 ## Example 2: GARCH model (conditional heteroscedasticity)  
 
-$$\sigma^2_t = \alpha_0 + \alpha_1 \epsilon^2_{t-1} + \beta_1 \sigma^2_{t-1}, \ \ \ t = 1,...,n, \ \ \ \epsilon_t = \sigma_t z_t, \ \ z_t \sim N (0,1).$$
+Consider the following Garch(1,1) model
 
-The R code below fits a GARCH(1,1) model and obtains the estimated innovation sequences which can be used to test for structural breaks using standard retrospective tests. 
+$$\sigma^2_t = \alpha_0 + \alpha_1 \epsilon^2_{t-1} + \beta_1 \sigma^2_{t-1}, \ \ \ t = 1,...,n, \ \ \ \epsilon_t = \sigma_t Z_t, \ \ Z_t \sim N (0,1).$$
+
+### Remarks
+
+The main feature of multiplicative noise models is that it enable us to capture the dependence structure of financial log-return series. In particular, the Garch process is defined as above, where the conditional heteroscedasticity (changing variance over time) is captured by the second equation such that Zt is a sequence of identically distributed (i.i.d) random variables with zero mean and unit variance.  Furthermore, the first component represents the local conditional standard deviation of the process and the two sequences are assumed to be independent.  
+
+The R code below fits a Garch(1,1) model and obtains the estimated innovation sequences which can be used to test for structural breaks using standard retrospective tests. 
 
 ```R
 
