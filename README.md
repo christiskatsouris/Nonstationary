@@ -8,6 +8,7 @@ The notion of "nonstationarity" in time series analysis and time series economet
 
 $$y_t = \rho y_{t-1} + e_t, \ \ \ 0< \rho < 1, \ \ \ t = 1,...,n, \ \ \ e_t \sim N (0,1).$$
 
+Assume that there is a single break-point at an unknown location within the full sample. Then, the R code below can be employed to determine the location of the break-point (if one exists) using standard F-tests. 
 
 ```R
 
