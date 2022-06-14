@@ -62,7 +62,7 @@ $$\sigma^2_t = \alpha_0 + \alpha_1 \epsilon^2_{t-1} + \beta_1 \sigma^2_{t-1}, \ 
 
 ### Remarks
 
-The main feature of multiplicative noise models is that it enable us to capture the dependence structure of financial log-return series. In particular, the Garch process is defined as above, where the conditional heteroscedasticity (changing variance over time) is captured by the second equation such that Zt is a sequence of identically distributed (i.i.d) random variables with zero mean and unit variance.  Furthermore, the first component represents the local conditional standard deviation of the process and the two sequences are assumed to be independent.  
+The main feature of multiplicative noise models is that it enable us to capture the dependence structure of financial log-return series. In particular, the Garch(1,1) process is defined as above, where the conditional heteroscedasticity (changing variance over time) is captured by the second equation such that Zt is a sequence of identically distributed (i.i.d) random variables with zero mean and unit variance.  Furthermore, the first component represents the local conditional standard deviation of the process and the two sequences are assumed to be independent. Note also, that we consider only stationary Garch processes which implies that a1 + b1 < 1. 
 
 The R code below fits a Garch(1,1) model and obtains the estimated innovation sequences which can be used to test for structural breaks using standard retrospective tests. 
 
