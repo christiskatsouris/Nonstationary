@@ -154,7 +154,7 @@ lines(-mos.bound, col = 2)
 ```
 ## Assignment 1
 
-Using one of the following Statistical Software: R, Matlab or Stata prepare a short empirical study based on a suitable time series dataset. The main focus is the use of linear (e.g., AR(1)) and non-linear (e.g., GARCH) financial time series models. The analysis should include: (i) model fitting and residual analysis, such as testing for the presence of autocorrelation in the residual series or testing for Arch/Garch effects and, (ii) testing for structural breaks using both retrospective and sequential break-point tests. 
+Using one of the following Statistical Software: R, Matlab or Stata prepare a short empirical study based on a suitable time series dataset. The main focus is the use of both the first-order autoregressive AR(1) model as well as the p-th order autoregressive conditionally heteroscedastic model ARCH(p) and GARCH(p,q) for time-series data. The analysis should include: (i) model fitting and residual analysis, such as testing for the presence of autocorrelation in the residual series and testing for the presence of Arch/Garch effects, and (ii) testing for structural breaks using both retrospective and sequential break-point tests. 
 
 ## References
 
@@ -168,6 +168,7 @@ Using one of the following Statistical Software: R, Matlab or Stata prepare a sh
 - Zeileis, A., Leisch, F., Hornik, K., & Kleiber, C. (2002). strucchange: An R package for testing for structural change in linear regression models. Journal of Statistical Software, 7, 1-38.
 - Henshaw Jr, R. C. (1966). Testing single-equation least squares regression models for autocorrelated disturbances. Econometrica: Journal of the Econometric Society, 646-660.
 - Wallis, K. F. (1972). Testing for fourth order autocorrelation in quarterly regression equations. Econometrica: Journal of the Econometric Society, 617-636.
+- Katsouris, C. (2021). Sequential Break-Point Detection in Stationary Time Series: An Application to Monitoring Economic Indicators. arXiv preprint [arXiv:2112.06889](https://arxiv.org/abs/2112.06889).
 
 
 ## Further Reading
