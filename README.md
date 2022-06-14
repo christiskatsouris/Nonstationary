@@ -219,7 +219,7 @@ Using one of the following Statistical Software: R, Matlab or Stata prepare a sh
 
 # Remarks
 
-1. In this teaching page, we present some examples for financial time series modelling using linear and nonlinear time series regression models. We consider the notion of "nonstationarity" as the presence of time-variation in model parameters, which requires to employ structural break tests to identify the presence of breaksm while the notion of "nonlinearity" corresponds to changing regime dynamics. Thus, in general by "nonstationary" we mean non-constant moments, and so we consider processes whose sum of absolute autocovariances is finite.   
+1. In this teaching page, we present some examples for financial time series modelling using linear and nonlinear time series regression models. We consider the notion of "nonstationarity" as the presence of time-variation in model parameters, which requires to employ structural break tests to identify the presence of breaksm while the notion of "nonlinearity" corresponds to changing regime dynamics. Therefore, unless otherwise specified with the term "nonstationary" we mean processes with non-constant moments, and so we consider processes whose sum of absolute autocovariances is finite.   
 
 2. A different stream of literature, namely "nonstationary time series econometrics" focuses on the development of asymptotic theory and inference methods for nonstationary time series processes and regression models (e.g., using local-to-unity asymptotics). In particular, that case implies that the second moments of underline stochastic processes can be unbounded (e.g., presence of unit roots). The presentation of the particular applications is beyond the scope of the current teaching page.   
 
