@@ -164,11 +164,10 @@ Using one of the following Statistical Software: R, Matlab or Stata prepare a sh
 - Chu, C. S. J., Stinchcombe, M., & White, H. (1996). Monitoring structural change. Econometrica: Journal of the Econometric Society, 1045-1065.
 - Bai, J., & Perron, P. (1998). Estimating and testing linear models with multiple structural changes. Econometrica, 47-78.
 - Andreou, E., & Ghysels, E. (2002). Detecting multiple breaks in financial market volatility dynamics. Journal of Applied Econometrics, 17(5), 579-600.
-- - Horváth, L., Hušková, M., Kokoszka, P., & Steinebach, J. (2004). Monitoring changes in linear models. Journal of statistical Planning and Inference, 126(1), 225-251.
+- Horváth, L., Hušková, M., Kokoszka, P., & Steinebach, J. (2004). Monitoring changes in linear models. Journal of statistical Planning and Inference, 126(1), 225-251.
 - Zeileis, A., Leisch, F., Kleiber, C., & Hornik, K. (2005). Monitoring structural change in dynamic econometric models. Journal of Applied Econometrics, 20(1), 99-121.
 - Zeileis, A., Leisch, F., Hornik, K., & Kleiber, C. (2002). strucchange: An R package for testing for structural change in linear regression models. Journal of Statistical Software, 7, 1-38.
 - Katsouris, C. (2017). Sequential Break-Point Detection in Stationary Time Series: An Application to Monitoring Economic Indicators. arXiv preprint [arXiv:2112.06889](https://arxiv.org/abs/2112.06889).
-
 - Henshaw Jr, R. C. (1966). Testing single-equation least squares regression models for autocorrelated disturbances. Econometrica: Journal of the Econometric Society, 646-660.
 - Wallis, K. F. (1972). Testing for fourth order autocorrelation in quarterly regression equations. Econometrica: Journal of the Econometric Society, 617-636.
 
