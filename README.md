@@ -173,10 +173,11 @@ Using one of the following Statistical Software: [R](https://www.r-project.org/)
 - Zeileis, A., Leisch, F., Hornik, K., & Kleiber, C. (2002). strucchange: An R package for testing for structural change in linear regression models. Journal of Statistical Software, 7, 1-38.
 - Katsouris, C. (2017). Sequential Break-Point Detection in Stationary Time Series: An Application to Monitoring Economic Indicators. [arXiv preprint:2112.06889](https://arxiv.org/abs/2112.06889).
 
-(c) Garch modelling
+(c) Garch and volatility modelling
 - Bollerslev, T. (1986). Generalized autoregressive conditional heteroskedasticity. Journal of Econometrics, 31(3), 307-327.
 - Babikir, A., Gupta, R., Mwabutwa, C., & Owusu-Sekyere, E. (2012). Structural breaks and GARCH models of stock return volatility: The case of South Africa. Economic Modelling, 29(6), 2435-2443.
 - Stefan Richter, Weining Wang and Wei Biao Wu (2021) Testing for parameter change epochs in GARCH time series. The Econometrics Journal.
+- Katsouris, C. (2021). Forecast Evaluation in Large Cross-Sections of Realized Volatility. [arXiv preprint:2112.04887](https://arxiv.org/abs/2112.04887).
 
 (d) Testing for autocorrelation in time series models
 - Henshaw Jr, R. C. (1966). Testing single-equation least squares regression models for autocorrelated disturbances. Econometrica: Journal of the Econometric Society, 646-660.
