@@ -236,3 +236,9 @@ Using one of the following Statistical Software: [R](https://www.r-project.org/)
 2. A different stream of literature, namely "nonstationary time series econometrics" focuses on the development of asymptotic theory and inference methods for nonstationary time series processes and regression models (e.g., using local-to-unity asymptotics). In particular, that case implies that the second moments of underline stochastic processes can be unbounded (e.g., presence of unit roots). The presentation of the particular applications is beyond the scope of the current teaching page.   
 
 3. In practise the econometric analyses of macroeconomic time series versus financial time series often require different concepts and tools. Although there is an overlap of methodologies, usually the analysis of financial time series which includes stock returns and/or financial and economic indicators corresponds to stationary stochastic processes. On the other hand, the analysis of macroeconomic time series involves the use of unit root and cointegration theory due to the fact that the underline stochastic processes are considered to be nonstationary (not necessarily because of the presence of structural breaks, although this is an additional aspect of consideration). 
+
+# Disclaimer
+
+The author declares no conflicts of interest.
+
+The proposed Course Syllabus is currently under development and has not been officially undergone quality checks. All rights reserved.
