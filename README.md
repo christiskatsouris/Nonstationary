@@ -242,3 +242,9 @@ Using one of the following Statistical Software: [R](https://www.r-project.org/)
 The author declares no conflicts of interest.
 
 The proposed Course Syllabus is currently under development and has not been officially undergone quality checks. All rights reserved.
+
+Any errors or omissions are the responsibility of the author.
+
+# How to Cite a Website
+
+See: https://www.mendeley.com/guides/web-citation-guide/
