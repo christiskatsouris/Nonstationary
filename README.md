@@ -216,18 +216,21 @@ Using one of the following Statistical Software: [R](https://www.r-project.org/)
 
 ### Remarks
 
-Although for the purpose of this course, we focus on the implementation of the threshold-model based on time series data, threshold models are widely applicable in various settings. 
+Although for the purpose of this course, we focus on the implementation of the threshold-model based on time series data, threshold models are widely applicable in various settings. According to Lee, Seo and Shin (2011), the threshold effect can be specified as a change-point due to an unknown threshold in a particular covariate. In economics and sociology, racial segregation can be modeled as a threshold effect. For example, one can investigate the existence of race-based tipping in neighborhoods. Moreover, examples from economic empirical studies include Durlauf and Johnson (1995) who argue that cross-country growth models with multiple equilibria can exhibit threshold effects. In empirical finance, Peseran and Pick (2007) argue that the effect of financial contagion can be described as a discontinuous threshold effect, hence testing for threshold effects implies testing for the presence of financial contagion. In biostatistics, dose-response models are typically specified with some unknown threshold parameters. Lastly, in Epidemiology, logistic regressions with unknown change points are used to model the relationship between the continuous exposure variable and disease risk.   
 
 ## References
 
 - Che, X., & Jiang, M. (2021). Economic Policy Uncertainty, Financial Expenditure and Energy Poverty: Evidence Based on a Panel Threshold Model. Sustainability, 13(21), 11594.
 - Dagenais, M. G. (1969). A threshold regression model. Econometrica: Journal of Econometric Society, 193-203.
+- Davies, R. B. (1987). Hypothesis testing when a nuisance parameter is present only under the alternative. Biometrika, 74(1), 33-43.
+- Durlauf, S. N., & Johnson, P. A. (1995). Multiple regimes and cross‐country growth behaviour. Journal of Applied Econometrics, 10(4), 365-384.
 - Fong, Y., Huang, Y., Gilbert, P. B., & Permar, S. R. (2017). chngpt: Threshold regression model estimation and inference. BMC bioinformatics, 18(1), 1-7.
 - Galvao Jr, A. F., Montes-Rojas, G., & Olmo, J. (2013). A panel data test for poverty traps. Applied Economics, 45(14), 1943-1952.
 - Gonzalo, J., & Pitarakis, J. Y. (2002). Estimation and model selection based inference in single and multiple threshold models. Journal of Econometrics, 110(2), 319-352.
 - K. S. Chan and H. Tong (1990). On Likelihood Ratio Tests for Threshold Autoregression. Journal of the Royal Statistical Society, Series B, Methodological, 52, 469-476.  
 - Lee, S., Seo, M. H., & Shin, Y. (2011). Testing for threshold effects in regression models. Journal of the American Statistical Association, 106(493), 220-231.
 - Peng, F., Cebula, R. J., Foley, M., & Zhan, K. (2016). Estimation of the liquidity trap using a panel threshold model. Applied Economics Letters, 23(16), 1134-1137.
+- Pesaran, M. H., & Pick, A. (2007). Econometric issues in the analysis of contagion. Journal of Economic Dynamics and Control, 31(4), 1245-1277.
 - Yu, P. (2012). Likelihood estimation and inference in threshold regression. Journal of Econometrics, 167(1), 274-294.
 
 
