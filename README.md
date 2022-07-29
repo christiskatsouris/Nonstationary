@@ -183,7 +183,7 @@ Using one of the following Statistical Software: [R](https://www.r-project.org/)
 - Henshaw Jr, R. C. (1966). Testing single-equation least squares regression models for autocorrelated disturbances. Econometrica: Journal of the Econometric Society, 646-660.
 - Wallis, K. F. (1972). Testing for fourth order autocorrelation in quarterly regression equations. Econometrica: Journal of the Econometric Society, 617-636.
 
-## Further Reading
+# Reading List
 
 - Gourieroux, C., & Jasiak, J. (2018). Financial econometrics. In Financial Econometrics. Princeton University Press.
 - Tsay, R. S. (2005). Analysis of financial time series. John wiley & sons. (Chapter 3: Conditional Heteroscedastic Models)
