@@ -260,12 +260,11 @@ an increase in the interest rate that causes capital inflows and an appreciation
 Barro (1974, 1989) argues that the fiscal deficits and the current account deficits are unrelated. Kim and Roubini (2008) argue for a negative relationship, a “Twin Divergence” hypothesis.
 
 
-
 ## References
 
 - Ahmad, A. H., Aworinde, O. B., & Martin, C. (2015). Threshold cointegration and the short-run dynamics of twin deficit hypothesis in African countries. The Journal of Economic Asymmetries, 12(2), 80-91.
 - Balke, N. S., & Fomby, T. B. (1997). Threshold cointegration. International economic review, 627-645.
-- Hansen, B. E., & Seo, B. (2002). Testing for two-regime threshold cointegration in vector error-correction models. Journal of econometrics, 110(2), 293-318.
+- Hansen, B. E., & Seo, B. (2002). Testing for two-regime threshold cointegration in vector error-correction models. Journal of Econometrics, 110(2), 293-318.
 - Li, J., & Lee, J. (2010). ADL tests for threshold cointegration. Journal of Time Series Analysis, 31(4), 241-254.
 
 # General Comments
