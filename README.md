@@ -240,10 +240,27 @@ Although for the purpose of this course, we focus on the implementation of the t
 
 A threshold cointegration model allows to investigate nonlinearities which exhibit time series nonstationarity and cointegration dynamics. A suitable modelling framework to capture such dynamics is proposed by Hansen and Seo (2002). Furthermore, the threshold cointegration model allows to capture short-run dynamics and therefore is commonly used in international finance empirical studies to investigate related hypotheses, such as the twin deficit hypothesis. 
 
+```R
+
+# Fitting Threshold Cointegration Models
+
+
+```
+
+### Remarks
+
+According to Ahmad, Aworinde and Martin (2015): 
+
+> Persistent fiscal and current account deficits are a major policy concern, irrespective of whether the country is affected is developed or developing.  This is because large fiscal deficits may lead to crowding-out of private investment if they cause interest rates to rise. Similarly, a large current account deficit could lead to a decline in competitiveness, a transfer of wealth to foreign nationals and a depletion of foreign exchange reserves, possibly triggering a currency crisis. From the traditional open-economy macroeconomic perspective, there are three main reasons to expect a positive relationship between the fiscal deficit and the current account deficit, the “Twin Deficit” hypothesis. First, an increase in the fiscal deficit may induce
+an increase in the interest rate that causes capital inflows and an appreciation of the exchange rate, with unfavourable effects on the current account. Second, an increase in the fiscal deficit may lead to an increase in the demand for imports, causing a worsening of the current account. And third, a worsening of the current account deficit will reduce tax revenue and thus increase the fiscal deficit. In contrast to the traditional Keynesian view, the Ricardian equivalence hypothesis of
+Barro (1974, 1989) argues that the fiscal deficits and the current account deficits are unrelated. Kim and Roubini (2008) argue for a negative relationship, a “Twin Divergence” hypothesis.
 
 
 
+## References
 
+- Ahmad, A. H., Aworinde, O. B., & Martin, C. (2015). Threshold cointegration and the short-run dynamics of twin deficit hypothesis in African countries. The Journal of Economic Asymmetries, 12(2), 80-91.
+- Hansen, B. E., & Seo, B. (2002). Testing for two-regime threshold cointegration in vector error-correction models. Journal of econometrics, 110(2), 293-318.
 
 # Reading List
 - Tsay, R. S. (2005). Analysis of financial time series. John wiley & sons. (Chapter 4: Nonlinear Models and Their Applications)
