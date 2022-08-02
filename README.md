@@ -196,7 +196,7 @@ Using one of the following Statistical Software: [R](https://www.r-project.org/)
 
 # II. Nonlinear Time-Series Models
 
-Modelling nonlinearity (e.g., "changing-regime" dynamics or threshold-type non-linearity) in time series econometrics is commonly captured using threshold autoregressive specifications and threshold regression models. A typology of these models is provided by the nature of the switching function F(.) as well as by the nature of the switching variable which can be either time index (structural change) or a continuous variable (threshold variable). Furthermore, threshold regressions can be also employed for jointly modelling nonstationarity and nonlinearity, although we consider this case as a more advanced application of the current framework.    
+Modelling nonlinearity (e.g., "changing-regime" dynamics or threshold-type non-linearity) in time series econometrics is commonly captured using threshold autoregressive specifications and threshold regression models. A typology of these models is provided by the nature of the switching function $F(.)$ as well as by the nature of the switching variable which can be either time index (structural change) or a continuous variable (threshold variable). Furthermore, threshold regressions can be also employed for jointly modelling nonstationarity and nonlinearity, although we consider this case as a more advanced application of the current framework.    
 
 ## Application 1: Threshold Autoregression Model
 
