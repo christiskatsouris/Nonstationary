@@ -238,7 +238,9 @@ Although for the purpose of this course, we focus on the implementation of the t
 
 ## Application 2: Threshold Cointegration Model (Advanced Topics)
 
-A threshold cointegration model allows to investigate nonlinearities which exhibit time series nonstationarity and cointegration dynamics. A suitable modelling framework to capture such dynamics is proposed by Hansen and Seo (2002).  
+A threshold cointegration model allows to investigate nonlinearities which exhibit time series nonstationarity and cointegration dynamics. A suitable modelling framework to capture such dynamics is proposed by Hansen and Seo (2002). Furthermore, the threshold cointegration model allows to capture short-run dynamics and therefore is commonly used in international finance empirical studies to investigate related hypotheses, such as the twin deficit hypothesis. 
+
+
 
 
 
