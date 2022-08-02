@@ -264,7 +264,11 @@ Barro (1974, 1989) argues that the fiscal deficits and the current account defic
 ## References
 
 - Ahmad, A. H., Aworinde, O. B., & Martin, C. (2015). Threshold cointegration and the short-run dynamics of twin deficit hypothesis in African countries. The Journal of Economic Asymmetries, 12(2), 80-91.
+- Balke, N. S., & Fomby, T. B. (1997). Threshold cointegration. International economic review, 627-645.
 - Hansen, B. E., & Seo, B. (2002). Testing for two-regime threshold cointegration in vector error-correction models. Journal of econometrics, 110(2), 293-318.
+- Li, J., & Lee, J. (2010). ADL tests for threshold cointegration. Journal of Time Series Analysis, 31(4), 241-254.
+
+
 
 # Reading List
 - Tsay, R. S. (2005). Analysis of financial time series. John wiley & sons. (Chapter 4: Nonlinear Models and Their Applications)
