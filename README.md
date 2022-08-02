@@ -285,7 +285,7 @@ Barro (1974, 1989) argues that the fiscal deficits and the current account defic
 2. Understand the statistical procedures for implementing structural break tests under different modelling environments. 
 3. Be able to apply econometric techniques in order to uncover structural breaks, unit roots and nonlinear dynamics in time series.  
 4. Be able to relate empirical results from econometric methodologies with commonly testable hypotheses of international finance/macroeconomics.    
-5. Be able to use Statistical/Econometric Programming Software such as R, Matlab or Stata.
+5. Be able to use Statistical/Econometric Programming Software such as [R](https://www.r-project.org/), [Matlab](https://uk.mathworks.com/help/matlab/getting-started-with-matlab.html) or [Stata](https://www.stata.com/bookstore/getting-started-windows/).
 
 # Disclaimer
 
