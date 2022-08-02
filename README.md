@@ -195,7 +195,7 @@ Using one of the following Statistical Software: [R](https://www.r-project.org/)
 
 Modelling nonlinearity (e.g., "changing-regime" dynamics or threshold-type non-linearity) in time series econometrics is commonly captured using threshold autoregressive specifications and threshold regression models. A typology of these models is provided by the nature of the switching function F(.) as well as by the nature of the switching variable which can be either time index (structural change) or a continuous variable (threshold variable). Furthermore, threshold regressions can be also employed for jointly modelling nonstationarity and nonlinearity, although we consider this case as a more advanced application of the current framework.    
 
-## Example 1: Threshold Autoregression Model
+## Application 1: Threshold Autoregression Model
 
 $$y_t = 
 \begin{cases}
@@ -234,6 +234,13 @@ Although for the purpose of this course, we focus on the implementation of the t
 - Peng, F., Cebula, R. J., Foley, M., & Zhan, K. (2016). Estimation of the liquidity trap using a panel threshold model. Applied Economics Letters, 23(16), 1134-1137.
 - Pesaran, M. H., & Pick, A. (2007). Econometric issues in the analysis of contagion. Journal of Economic Dynamics and Control, 31(4), 1245-1277.
 - Yu, P. (2012). Likelihood estimation and inference in threshold regression. Journal of Econometrics, 167(1), 274-294.
+
+
+## Application 2: Threshold Cointegration Model (Advanced Topics)
+
+A threshold cointegration model allows to investigate nonlinearities which exhibit time series nonstationarity and cointegration dynamics. A suitable modelling framework to capture such dynamics is proposed by Hansen and Seo (2002).  
+
+
 
 
 # Reading List
