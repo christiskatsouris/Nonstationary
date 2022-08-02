@@ -290,6 +290,14 @@ The proposed Course Syllabus is currently under development and has not been off
 
 Any errors or omissions are the responsibility of the author.
 
+Any views and opinions expressed herein are those of the author. The author accepts no liability for any loss or damage a person suffers because that person has directly or indirectly relied on any information found on this website.
+
+# Acknowledgments
+
+The author greatfully acknowledges financial support from Graduate Teaching Assistantships at the School of Economic, Social and Political Sciences of the University of Southampton as well as funding from Research Grants of various interdisciplinary Centers of research excellence based at the University of Cyprus (UCY) as well as at University College London (UCL).
+
+If you are interested to collaborate on any of the topics discussed in this teaching page, don't hesitate to contact me at christiskatsouris@gmail.com
+
 # How to Cite a Website
 
 See: https://www.mendeley.com/guides/web-citation-guide/
