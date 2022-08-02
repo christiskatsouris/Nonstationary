@@ -268,7 +268,7 @@ Barro (1974, 1989) argues that the fiscal deficits and the current account defic
 - Hansen, B. E., & Seo, B. (2002). Testing for two-regime threshold cointegration in vector error-correction models. Journal of econometrics, 110(2), 293-318.
 - Li, J., & Lee, J. (2010). ADL tests for threshold cointegration. Journal of Time Series Analysis, 31(4), 241-254.
 
-## Comments
+# General Comments
 
 1. In this teaching page, we present some examples for financial time series modelling using linear and nonlinear time series regression models. We consider the notion of "nonstationarity" as the presence of time-variation in model parameters, which requires to employ structural break tests to identify the presence of breaksm while the notion of "nonlinearity" corresponds to changing regime dynamics. Therefore, unless otherwise specified with the term "nonstationary" we mean processes with non-constant moments, and so we consider processes whose sum of absolute autocovariances is finite.   
 
