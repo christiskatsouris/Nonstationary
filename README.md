@@ -268,7 +268,11 @@ Barro (1974, 1989) argues that the fiscal deficits and the current account defic
 - Hansen, B. E., & Seo, B. (2002). Testing for two-regime threshold cointegration in vector error-correction models. Journal of Econometrics, 110(2), 293-318.
 - Li, J., & Lee, J. (2010). ADL tests for threshold cointegration. Journal of Time Series Analysis, 31(4), 241-254.
 
-# General Comments
+# Reading List
+- Tsay, R. S. (2005). Analysis of financial time series. John wiley & sons. (Chapter 4: Nonlinear Models and Their Applications)
+- Bauwens, L., Lubrano, M., & Richard, J. F. (2000). Bayesian inference in dynamic econometric models. OUP Oxford. (Chapter 8: Non-linear Time Series Models)
+
+# Comments
 
 1. In this teaching page, we present some examples for financial time series modelling using linear and nonlinear time series regression models. We consider the notion of "nonstationarity" as the presence of time-variation in model parameters, which requires to employ structural break tests to identify the presence of breaksm while the notion of "nonlinearity" corresponds to changing regime dynamics. Therefore, unless otherwise specified with the term "nonstationary" we mean processes with non-constant moments, and so we consider processes whose sum of absolute autocovariances is finite.   
 
@@ -276,9 +280,6 @@ Barro (1974, 1989) argues that the fiscal deficits and the current account defic
 
 3. In practise the econometric analyses of macroeconomic time series versus financial time series often require different concepts and tools. Although there is an overlap of methodologies, usually the analysis of financial time series which includes stock returns and/or financial and economic indicators corresponds to stationary stochastic processes. On the other hand, the analysis of macroeconomic time series involves the use of unit root and cointegration theory due to the fact that the underline stochastic processes are considered to be nonstationary (not necessarily because of the presence of structural breaks, although this is an additional aspect of consideration). 
 
-# Reading List
-- Tsay, R. S. (2005). Analysis of financial time series. John wiley & sons. (Chapter 4: Nonlinear Models and Their Applications)
-- Bauwens, L., Lubrano, M., & Richard, J. F. (2000). Bayesian inference in dynamic econometric models. OUP Oxford. (Chapter 8: Non-linear Time Series Models)
 
 # Learning Outcomes
 
