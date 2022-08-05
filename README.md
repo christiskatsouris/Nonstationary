@@ -246,7 +246,7 @@ Although for the purpose of this course, we focus on the implementation of the t
 
 ## Application 2: Threshold Cointegration Model (Advanced Topics)
 
-Generally, the framework of the cointegration model allows to capture various dynamics and thus investigate international finance and international macroeconomic puzzles such as the Purchasing Power Parity (PPP) condition. In particular, the PPP theory states that in the long run, the exchange rate between two countries is determined by their relative price levels (see, Section 2.2. in Engel, Mark and West (2007)).  
+Generally, the framework of the cointegration model allows to capture various dynamics and thus investigate international finance and international macroeconomic puzzles such as the Purchasing Power Parity (PPP) condition. In particular, the PPP theory states that in the long run, the exchange rate between two countries is determined by their relative price levels (see, Section 2.2. in Engel, Mark and West (2007) and Deardorff, A. V. (1979) for related definitions).  
 
 Furthermore, a threshold cointegration model can be employed to investigate nonlinearities which exhibit time series nonstationarity and cointegration dynamics simultaneously. In particular, the threshold cointegration model allows to capture short-run dynamics and therefore is commonly used in international finance empirical studies to investigate hypotheses such as the "twin deficit" hypothesis (“Twin Divergence”). A suitable modelling framework to capture the dynamics under the "twin deficit" hypothesis is proposed by [Hansen and Seo (2002)](https://www.sciencedirect.com/science/article/pii/S0304407602000970) as briefly explained below. 
 
@@ -271,6 +271,7 @@ Barro (1974, 1989) argues that the fiscal deficits and the current account defic
 
 - Ahmad, A. H., Aworinde, O. B., & Martin, C. (2015). Threshold cointegration and the short-run dynamics of twin deficit hypothesis in African countries. The Journal of Economic Asymmetries, 12(2), 80-91.
 - Balke, N. S., & Fomby, T. B. (1997). Threshold cointegration. International economic review, 627-645.
+- Deardorff, A. V. (1979). One-way arbitrage and its implications for the foreign exchange markets. Journal of Political Economy, 87(2), 351-364.
 - Engel, C., Mark, N. C., West, K. D. (2007). Exchange rate models are not as bad as you think. NBER macroeconomics annual, 22, 381-473.
 - Gonzalo, J., & Pitarakis, J. Y. (2006). Threshold effects in cointegrating relationships. Oxford Bulletin of Economics and Statistics, 68, 813-833.
 - Hansen, B. E., & Seo, B. (2002). Testing for two-regime threshold cointegration in vector error-correction models. Journal of Econometrics, 110(2), 293-318.
