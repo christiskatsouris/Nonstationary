@@ -282,6 +282,7 @@ Barro (1974, 1989) argues that the fiscal deficits and the current account defic
 - Hansen, B. E., & Seo, B. (2002). Testing for two-regime threshold cointegration in vector error-correction models. Journal of Econometrics, 110(2), 293-318.
 - Li, J., & Lee, J. (2010). ADL tests for threshold cointegration. Journal of Time Series Analysis, 31(4), 241-254.
 - Nelson, C. R., & Plosser, C. R. (1982). Trends and random walks in macroeconmic time series: some evidence and implications. Journal of monetary economics, 10(2), 139-162.
+- Prakash-Canjels, G., & Taylor, A. M. (1997). Measuring market integration: a model of arbitrage with an econometric application to the gold standard, 1879-1913.
 - Timmermann, A. (1995). Cointegration tests of present value models with a time‐varying discount factor. Journal of Applied Econometrics, 10(1), 17-31.
 
 # Reading List
