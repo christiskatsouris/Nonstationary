@@ -246,7 +246,9 @@ Although for the purpose of this course, we focus on the implementation of the t
 
 ## Application 2: Threshold Cointegration Model (Advanced Topics)
 
-A threshold cointegration model allows to investigate nonlinearities which exhibit time series nonstationarity and cointegration dynamics. In particular, the threshold cointegration model allows to capture short-run dynamics and therefore is commonly used in international finance empirical studies to investigate related hypotheses and puzzles, such as the "twin deficit" hypothesis (“Twin Divergence”). A suitable modelling framework to capture such dynamics is proposed by [Hansen and Seo (2002)](https://www.sciencedirect.com/science/article/pii/S0304407602000970) as briefly explained below. 
+Generally, the framework of the cointegration model allows to capture various dynamics and thus investigate international finance and international macroeconomic puzzles such as the Purchasing Power Parity (PPP) condition.  
+
+Specifically, a threshold cointegration model allows to investigate nonlinearities which exhibit time series nonstationarity and cointegration dynamics simultaneously. In particular, the threshold cointegration model allows to capture short-run dynamics and therefore is commonly used in international finance empirical studies to investigate hypotheses such as the "twin deficit" hypothesis (“Twin Divergence”). A suitable modelling framework to capture the dynamics under the "twin deficit" hypothesis is proposed by [Hansen and Seo (2002)](https://www.sciencedirect.com/science/article/pii/S0304407602000970) as briefly explained below. 
 
 
 ```R
