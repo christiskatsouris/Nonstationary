@@ -246,9 +246,9 @@ Although for the purpose of this course, we focus on the implementation of the t
 
 ## Application 2: Threshold Cointegration Model (Advanced Topics)
 
-Generally, the framework of the cointegration model allows to capture various dynamics and thus investigate international finance and international macroeconomic puzzles such as the Purchasing Power Parity (PPP) condition.  
+Generally, the framework of the cointegration model allows to capture various dynamics and thus investigate international finance and international macroeconomic puzzles such as the Purchasing Power Parity (PPP) condition. In particular, the PPP theory states that in the long run, the exchange rate between two countries is determined by their relative price levels.  
 
-Specifically, a threshold cointegration model allows to investigate nonlinearities which exhibit time series nonstationarity and cointegration dynamics simultaneously. In particular, the threshold cointegration model allows to capture short-run dynamics and therefore is commonly used in international finance empirical studies to investigate hypotheses such as the "twin deficit" hypothesis (“Twin Divergence”). A suitable modelling framework to capture the dynamics under the "twin deficit" hypothesis is proposed by [Hansen and Seo (2002)](https://www.sciencedirect.com/science/article/pii/S0304407602000970) as briefly explained below. 
+Furthermore, a threshold cointegration model can be employed to investigate nonlinearities which exhibit time series nonstationarity and cointegration dynamics simultaneously. In particular, the threshold cointegration model allows to capture short-run dynamics and therefore is commonly used in international finance empirical studies to investigate hypotheses such as the "twin deficit" hypothesis (“Twin Divergence”). A suitable modelling framework to capture the dynamics under the "twin deficit" hypothesis is proposed by [Hansen and Seo (2002)](https://www.sciencedirect.com/science/article/pii/S0304407602000970) as briefly explained below. 
 
 
 ```R
