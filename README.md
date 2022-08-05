@@ -271,6 +271,7 @@ Barro (1974, 1989) argues that the fiscal deficits and the current account defic
 
 ## References
 
+- Ayinla, A. S. (2018). Why Segregating Cointegration Test?. American Journal of Applied Mathematics and Statistics, 6(4), 121-125.
 - Ahmad, A. H., Aworinde, O. B., & Martin, C. (2015). Threshold cointegration and the short-run dynamics of twin deficit hypothesis in African countries. The Journal of Economic Asymmetries, 12(2), 80-91.
 - Balke, N. S., & Fomby, T. B. (1997). Threshold cointegration. International economic review, 627-645.
 - Corbae, D., & Ouliaris, S. (1988). Cointegration and tests of purchasing power parity. The Review of Economics and Statistics, 508-511.
