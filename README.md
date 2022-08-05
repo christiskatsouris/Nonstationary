@@ -275,6 +275,7 @@ Barro (1974, 1989) argues that the fiscal deficits and the current account defic
 - Ahmad, A. H., Aworinde, O. B., & Martin, C. (2015). Threshold cointegration and the short-run dynamics of twin deficit hypothesis in African countries. The Journal of Economic Asymmetries, 12(2), 80-91.
 - Balke, N. S., & Fomby, T. B. (1997). Threshold cointegration. International economic review, 627-645.
 - Corbae, D., & Ouliaris, S. (1988). Cointegration and tests of purchasing power parity. The Review of Economics and Statistics, 508-511.
+- Dhrymes, P. J. (1969). Efficient estimation of distributed lags with autocorrelated errors. International Economic Review, 10(1), 47-67.
 - Deardorff, A. V. (1979). One-way arbitrage and its implications for the foreign exchange markets. Journal of Political Economy, 87(2), 351-364.
 - Engel, C., Mark, N. C., West, K. D. (2007). Exchange rate models are not as bad as you think. NBER macroeconomics annual, 22, 381-473.
 - Gonzalo, J., & Pitarakis, J. Y. (2006). Threshold effects in cointegrating relationships. Oxford Bulletin of Economics and Statistics, 68, 813-833.
