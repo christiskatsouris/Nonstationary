@@ -68,7 +68,7 @@ $$\sigma^2_t = \alpha_0 + \alpha_1 \epsilon^2_{t-1} + \beta_1 \sigma^2_{t-1}, \ 
 
 ### Remarks
 
-The main feature of multiplicative noise models is that it enable us to capture the dependence structure of financial log-return series. In particular, the Garch(1,1) process is defined as above, where the conditional heteroscedasticity (changing variance over time) is captured by the second equation such that Zt is a sequence of identically distributed (i.i.d) random variables with zero mean and unit variance.  Furthermore, the first component represents the local conditional standard deviation of the process and the two sequences are assumed to be independent. Note also, that we consider only stationary Garch processes which implies that $a_1 + b_1 < 1$. 
+The main feature of multiplicative noise models is that it enable us to capture the dependence structure of financial log-return series. In particular, the Garch(1,1) process is defined as above, where the conditional heteroscedasticity (changing variance over time) is captured by the second equation such that $Z_t$ is a sequence of identically distributed (i.i.d) random variables with zero mean and unit variance.  Furthermore, the first component represents the local conditional standard deviation of the process and the two sequences are assumed to be independent. Note also, that we consider only stationary Garch processes which implies that $a_1 + b_1 < 1$. 
 
 The R code below fits a Garch(1,1) model and obtains the estimated innovation sequences which can be used to test for structural breaks using standard retrospective tests. 
 
@@ -164,6 +164,10 @@ lines(-mos.bound, col = 2)
 ## Assignment 1
 
 Using one of the following Statistical Software: [R](https://www.r-project.org/), [Matlab](https://uk.mathworks.com/help/matlab/getting-started-with-matlab.html) or [Stata](https://www.stata.com/bookstore/getting-started-windows/) prepare a short empirical study based on a suitable time series dataset. The main focus is the use of both the first-order autoregressive AR(1) model as well as the p-th order autoregressive conditionally heteroscedastic model ARCH(p) and GARCH(p,q) for time-series data. The analysis should include: (i) model fitting and residual analysis, such as testing for the presence of autocorrelation in the residual series and testing for the presence of Arch/Garch effects, and (ii) testing for structural breaks using both retrospective and sequential break-point tests. 
+
+## Remarks
+
+- Notice that the additional assumption of autocorrelated errors can be imposed when modeling financial time series, however a typical assumption in these models with autocorrelated errors is that the variance of the errors is constant over the sampling points (e.g., in discrete time models). 
 
 ## References
 
