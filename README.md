@@ -258,12 +258,18 @@ Obtaining useful insights and information regarding the economic and financial b
 - Bai, J., & Perron, P. (1998). Estimating and testing linear models with multiple structural changes. Econometrica, 47-78.
 
 (b) Sequential Monitoring for Structural Breaks
+
+- Aue, A., Dienes, C., Fremdt, S., & Steinebach, J. (2015). Reaction times of monitoring schemes for ARMA time series. Bernoulli, 21(2), 1238-1259.
+- Aue, A., Horváth, L., & Reimherr, M. L. (2009). Delay times of sequential procedures for multiple time series regression models. Journal of Econometrics, 149(2), 174-190.
 - Chu, C. S. J., Stinchcombe, M., & White, H. (1996). Monitoring structural change. Econometrica: Journal of the Econometric Society, 1045-1065.
 - Chevallier, J. (2011). Detecting instability in the volatility of carbon prices. Energy Economics, 33(1), 99-110.
+- Dienes, C., & Aue, A. (2014). On‐line monitoring of pollution concentrations with autoregressive moving average time series. Journal of Time Series Analysis, 35(3), 239-261.
 - Horváth, L., Hušková, M., Kokoszka, P., & Steinebach, J. (2004). Monitoring changes in linear models. Journal of statistical Planning and Inference, 126(1), 225-251.
+- Horváth, L., Liu, Z., Rice, G., & Wang, S. (2020). Sequential monitoring for changes from stationarity to mild non-stationarity. Journal of Econometrics, 215(1), 209-238.
+- Harvey, D. I., Leybourne, S. J., Sollis, R., & Taylor, A. R. (2021). Real‐time detection of regimes of predictability in the US equity premium. Journal of Applied Econometrics, 36(1), 45-70.
+- Katsouris, C. (2017). Sequential Break-Point Detection in Stationary Time Series: An Application to Monitoring Economic Indicators. [arXiv preprint:2112.06889](https://arxiv.org/abs/2112.06889).
 - Zeileis, A., Leisch, F., Kleiber, C., & Hornik, K. (2005). Monitoring structural change in dynamic econometric models. Journal of Applied Econometrics, 20(1), 99-121.
 - Zeileis, A., Leisch, F., Hornik, K., & Kleiber, C. (2002). strucchange: An R package for testing for structural change in linear regression models. Journal of Statistical Software, 7, 1-38.
-- Katsouris, C. (2017). Sequential Break-Point Detection in Stationary Time Series: An Application to Monitoring Economic Indicators. [arXiv preprint:2112.06889](https://arxiv.org/abs/2112.06889).
 
 (c) Garch and volatility modelling
 - Bollerslev, T. (1986). Generalized autoregressive conditional heteroskedasticity. Journal of Econometrics, 31(3), 307-327.
