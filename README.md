@@ -230,7 +230,7 @@ lines(-mos.bound, col = 2)
 
 Using one of the following Statistical Software: [R](https://www.r-project.org/), [Matlab](https://uk.mathworks.com/help/matlab/getting-started-with-matlab.html) or [Stata](https://www.stata.com/bookstore/getting-started-windows/) prepare a short empirical study based on a suitable time series dataset. The main focus is the use of both the first-order autoregressive AR(1) model as well as the p-th order autoregressive conditionally heteroscedastic model ARCH(p) and GARCH(p,q) for time-series data. The analysis should include: (i) model fitting and residual analysis, such as testing for the presence of autocorrelation in the residual series and testing for the presence of Arch/Garch effects, and (ii) testing for structural breaks using both retrospective and sequential break-point tests. 
 
-## Remarks
+## Remarks:
 
 Notice that the additional assumption of autocorrelated errors can be imposed when modeling financial time series, however a typical assumption in these models with autocorrelated errors is that the variance of the errors is constant over the sampling points (e.g., in discrete time models). 
 
@@ -245,6 +245,10 @@ Notice that the additional assumption of autocorrelated errors can be imposed wh
 <img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/monitoring_residuals.jpg" width="620"/>
 
 Obtaining useful insights and information regarding the economic and financial behaviour of individuals (such as economic agents, investors, traders) requires the development of robust statistical procedures for monitoring time series observations. In particular, these state-of-the-art econometric methodologies can be employed as a signaling mechanism during periods of possible financial turbulence and thus preventing the occurrence of a financial crisis. Furthermore, monitoring indicators such as the Economic Policy Uncertainty Index or the Risk Aversion Index can provide some additional fruitful results. Thus, monitoring the aggregate level of risk aversion, provides a metric of financial behaviour by considering that the particular processes are driven by two main components, that is, the individual characteristics that govern financial decision makers and the spillover effects of the individual behaviour to the aggregate financial behaviour. Specifically, within the framework of sequential monitiring a formal investigation with respect to the statistical properties of the boundary function vis-a-vis some standardized facts of investment behaviour might be required. For example, investors are less risk averse during financial booms compared to busts therefore the switch to a boundary function with certain curvature is more suitable after a prolonged period of a financial boom; thus avoiding the delayed detection of a structural break and the late signalling of a financial crisis.  
+
+### Statistical Validity of Testing Methodologies: Empirical Size and Power Performance of tests
+
+In order to obtain insights regarding the finite-sample as well as large-sample performance of a statistical testing methodology, we can do a Monte Carlo simulation study, in which we obtain the empirical size (under the null hypothesis) and power (under the alternative hypothesis) of the test statistics under investigation.   
 
 ## References
 
