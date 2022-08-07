@@ -6,7 +6,7 @@ A teaching page presenting various topics related to Time Series Econometrics Us
 
 The main philosophy with this course is to combine traditional statistical modelling methodologies with modern econometric specifications suitable for both cross-sectional and time series data. Emphasis with this course is to introduce some important economic and finance applications such as the monitoring of financial time series for structural breaks as well as the modelling of nonlinear dynamics in time series. Furthermore, we introduce state-of-the-art techniques and programming capabilities with R for each topic covered.
 
-<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/time_series_plot.jpg" width="725"/>
+<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/time_series_plot.jpg" width="825"/>
 
 # I. Structural Break Testing 
 
