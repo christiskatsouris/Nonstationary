@@ -59,7 +59,7 @@ bp <- fs.nfci$breakpoint
 
 ```
 
-<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/retrospective_tests.jpg" width="725"/>
+<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/retrospective_tests.jpg" width="825"/>
 
 ## Example 2: GARCH model (conditional heteroscedasticity)  
 
