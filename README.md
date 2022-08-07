@@ -241,6 +241,8 @@ Notice that the additional assumption of autocorrelated errors can be imposed wh
 
 <img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/monitoring_residuals.jpg" width="620"/>
 
+Obtaining useful insights and information regarding the economic and financial behaviour of individuals (such as economic agents, investors, traders) requires the development of robust statistical procedures for monitoring time series observations. In particular, these state-of-the-art econometric methodologies can be employed as a signaling mechanism during periods of possible financial turbulence and thus preventing the occurrence of a financial crisis. 
+
 ## References
 
 (a) Restrospective Testing for Structural Break 
