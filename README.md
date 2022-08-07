@@ -173,6 +173,8 @@ Notice that the additional assumption of autocorrelated errors can be imposed wh
 
 <img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/monitoring_diff_series.jpg" width="725"/>
 
+<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/monitoring_diff_series2.jpg" width="725"/>
+
 ## References
 
 (a) Restrospective Testing for Structural Break 
