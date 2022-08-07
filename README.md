@@ -318,7 +318,7 @@ library("chngpt")
 
 Using one of the following Statistical Software: [R](https://www.r-project.org/), [Matlab](https://uk.mathworks.com/help/matlab/getting-started-with-matlab.html) or [Stata](https://www.stata.com/bookstore/getting-started-windows/) prepare a short empirical study based on a suitable time series dataset. In your dataset include the [Economic Policy Uncertainy](https://www.policyuncertainty.com/) (EPU) index as one of the variables. Using a dependent variable of your choice, a set of control variables and EPU as the threshold variable, investigate an economic application by fitting an appropriate threshold model. Describe in details the research question and the modelling approach. Then, using your dataset evaluate the performance of the model and explain the econometric intuition of your findings. Hint: The research question of your study should be tackling an economic theory problem that supports the use of a threshold regression. Some examples include: poverty traps, technological traps, financial development traps, liquidity traps or energy traps.  
 
-### Remarks
+## Remarks:
 
 Although for the purpose of this course, we focus on the implementation of the threshold-model based on time series data, threshold models are widely applicable in various settings. According to Lee, Seo and Shin (2011), the threshold effect can be specified as a change-point due to an unknown threshold in a particular covariate. In economics and sociology, racial segregation can be modeled as a threshold effect. For example, one can investigate the existence of race-based tipping in neighborhoods. Moreover, examples from economic empirical studies include Durlauf and Johnson (1995) who argue that cross-country growth models with multiple equilibria can exhibit threshold effects. In empirical finance, Peseran and Pick (2007) argue that the effect of financial contagion can be described as a discontinuous threshold effect, hence testing for threshold effects implies testing for the presence of financial contagion. In biostatistics, dose-response models are typically specified with some unknown threshold parameters. Lastly, in Epidemiology, logistic regressions with unknown change points are used to model the relationship between the continuous exposure variable and disease risk.   
 
@@ -358,7 +358,7 @@ A threshold cointegration model can be employed to investigate nonlinearities wh
 
 ```
 
-### Remarks
+## Remarks:
 
 According to Ahmad, Aworinde and Martin (2015): 
 
