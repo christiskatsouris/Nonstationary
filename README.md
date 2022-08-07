@@ -101,6 +101,65 @@ values1 <- residuals(garch.estim1, standardize=FALSE)
 
 ```
 
+```R
+
+# R Output Example: Fitting Garch model on financial time series
+
+> garch.estim1
+
+*---------------------------------*
+*          GARCH Model Fit        *
+*---------------------------------*
+
+Conditional Variance Dynamics 	
+-----------------------------------
+GARCH Model	: sGARCH(1,1)
+Mean Model	: ARFIMA(1,0,0)
+Distribution	: norm 
+
+Optimal Parameters
+------------------------------------
+        Estimate  Std. Error  t value Pr(>|t|)
+mu     -0.002042    0.007188 -0.28414 0.776304
+ar1     0.387700    0.076242  5.08512 0.000000
+omega   0.000318    0.000206  1.54072 0.123384
+alpha1  0.242776    0.065444  3.70966 0.000208
+beta1   0.756224    0.059930 12.61846 0.000000
+
+Robust Standard Errors:
+        Estimate  Std. Error  t value Pr(>|t|)
+mu     -0.002042    0.006184 -0.33023 0.741226
+ar1     0.387700    0.080344  4.82548 0.000001
+omega   0.000318    0.000464  0.68491 0.493400
+alpha1  0.242776    0.157520  1.54124 0.123259
+beta1   0.756224    0.166300  4.54734 0.000005
+
+LogLikelihood : 203.2973 
+
+Information Criteria
+------------------------------------
+                    
+Akaike       -1.9159
+Bayes        -1.8354
+Shibata      -1.9170
+Hannan-Quinn -1.8834
+
+Nyblom stability test
+------------------------------------
+Joint Statistic:  0.795
+Individual Statistics:              
+mu     0.05877
+ar1    0.18327
+omega  0.06785
+alpha1 0.14477
+beta1  0.05210
+
+Asymptotic Critical Values (10% 5% 1%)
+Joint Statistic:     	 1.28 1.47 1.88
+Individual Statistic:	 0.35 0.47 0.75
+
+```
+
 ## Example 3: CUSUM test statistic  
 
 In this Example we present an application of a sequential monitoring framework which can be employed for testing for structural breaks in time series using the OLS-CUSUM and OLS-MOSUM statistics. 
