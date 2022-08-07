@@ -6,6 +6,8 @@ A teaching page presenting various topics related to Time Series Econometrics Us
 
 The main philosophy with this course is to combine traditional statistical modelling methodologies with modern econometric specifications suitable for both cross-sectional and time series data. Emphasis with this course is to introduce some important economic and finance applications such as the monitoring of financial time series for structural breaks as well as the modelling of nonlinear dynamics in time series. Furthermore, we introduce state-of-the-art techniques and programming capabilities with R for each topic covered.
 
+<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/time_series_plot.jpg" width="725"/>
+
 # I. Structural Break Testing 
 
 The notion of "nonstationarity" in time series analysis and time series econometrics has various interpreations which depends on the exact modelling environment as well as the assumptions we impose on model parameters and moment conditions of innovation sequences. Thus, we provide some examples related to nonstationarity in terms of the presence of parameter instability for commonly used models in empirical studies. For both examples, we assume that the model parameters are such that the underline stochastic processes are stationarity and ergodic. The following examples are implemented in R.    
