@@ -181,6 +181,7 @@ Using one of the following Statistical Software: [R](https://www.r-project.org/)
 
 (b) Sequential Monitoring for Structural Breaks
 - Chu, C. S. J., Stinchcombe, M., & White, H. (1996). Monitoring structural change. Econometrica: Journal of the Econometric Society, 1045-1065.
+- Chevallier, J. (2011). Detecting instability in the volatility of carbon prices. Energy Economics, 33(1), 99-110.
 - Horváth, L., Hušková, M., Kokoszka, P., & Steinebach, J. (2004). Monitoring changes in linear models. Journal of statistical Planning and Inference, 126(1), 225-251.
 - Zeileis, A., Leisch, F., Kleiber, C., & Hornik, K. (2005). Monitoring structural change in dynamic econometric models. Journal of Applied Econometrics, 20(1), 99-121.
 - Zeileis, A., Leisch, F., Hornik, K., & Kleiber, C. (2002). strucchange: An R package for testing for structural change in linear regression models. Journal of Statistical Software, 7, 1-38.
