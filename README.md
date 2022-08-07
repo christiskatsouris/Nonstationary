@@ -324,6 +324,11 @@ Using one of the following Statistical Software: [R](https://www.r-project.org/)
 
 Although for the purpose of this course, we focus on the implementation of the threshold-model based on time series data, threshold models are widely applicable in various settings. According to Lee, Seo and Shin (2011), the threshold effect can be specified as a change-point due to an unknown threshold in a particular covariate. In economics and sociology, racial segregation can be modeled as a threshold effect. For example, one can investigate the existence of race-based tipping in neighborhoods. Moreover, examples from economic empirical studies include Durlauf and Johnson (1995) who argue that cross-country growth models with multiple equilibria can exhibit threshold effects. In empirical finance, Peseran and Pick (2007) argue that the effect of financial contagion can be described as a discontinuous threshold effect, hence testing for threshold effects implies testing for the presence of financial contagion. In biostatistics, dose-response models are typically specified with some unknown threshold parameters. Lastly, in Epidemiology, logistic regressions with unknown change points are used to model the relationship between the continuous exposure variable and disease risk.   
 
+<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/GDPtoDebt.jpg" width="850"/>
+
+> Figure above displays the percentage of GDP to Debt for various European countries. 
+
+
 ## References
 
 - Baker, S. R., Bloom, N., & Davis, S. J. (2016). Measuring economic policy uncertainty. The Quarterly Journal of Economics, 131(4), 1593-1636.
@@ -340,9 +345,6 @@ Although for the purpose of this course, we focus on the implementation of the t
 - Pesaran, M. H., & Pick, A. (2007). Econometric issues in the analysis of contagion. Journal of Economic Dynamics and Control, 31(4), 1245-1277.
 - Yu, P. (2012). Likelihood estimation and inference in threshold regression. Journal of Econometrics, 167(1), 274-294.
 
-<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/GDPtoDebt.jpg" width="850"/>
-
-> Figure above displays the percentage of GDP to Debt for various European countries. 
 
 ## Application 2: Threshold Cointegration Model (Advanced Topics)
 
