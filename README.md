@@ -252,16 +252,16 @@ In order to obtain insights regarding the finite-sample as well as large-sample 
 
 ## References
 
-$\textbf{(A).}$ Restrospective Testing for Structural Break 
+$\textbf{(A).}$  $\textbf{Restrospective Testing for Structural Break}$ 
 - Chow, G. C. (1960). Tests of equality between sets of coefficients in two linear regressions. Econometrica: Journal of the Econometric Society, 591-605.
 - Toyoda, T. (1974). Use of the Chow test under heteroscedasticity. Econometrica: Journal of the Econometric Society, 601-608.
 - Zeileis, A. (2005). A unified approach to structural change tests based on ML scores, F statistics, and OLS residuals. Econometric Reviews, 24(4), 445-466.
 
-$\textbf{(B).}$ Testing for Multiple Structural Breaks
+$\textbf{(B).}$ $\textbf{Testing for Multiple Structural Breaks}$
 - Andreou, E., & Ghysels, E. (2002). Detecting multiple breaks in financial market volatility dynamics. Journal of Applied Econometrics, 17(5), 579-600
 - Bai, J., & Perron, P. (1998). Estimating and testing linear models with multiple structural changes. Econometrica, 47-78.
 
-$\textbf{(C).}$ Sequential Monitoring for Structural Breaks
+$\textbf{(C).}$ $\textbf{Sequential Monitoring for Structural Breaks}
 
 - Aue, A., Dienes, C., Fremdt, S., & Steinebach, J. (2015). Reaction times of monitoring schemes for ARMA time series. Bernoulli, 21(2), 1238-1259.
 - Aue, A., Horváth, L., & Reimherr, M. L. (2009). Delay times of sequential procedures for multiple time series regression models. Journal of Econometrics, 149(2), 174-190.
@@ -277,13 +277,13 @@ $\textbf{(C).}$ Sequential Monitoring for Structural Breaks
 - Zeileis, A., Leisch, F., Kleiber, C., & Hornik, K. (2005). Monitoring structural change in dynamic econometric models. Journal of Applied Econometrics, 20(1), 99-121.
 - Zeileis, A., Leisch, F., Hornik, K., & Kleiber, C. (2002). strucchange: An R package for testing for structural change in linear regression models. Journal of Statistical Software, 7, 1-38.
 
-$\textbf{(D).}$ Garch and volatility modelling
+$\textbf{(D).}$ $\textbf{Garch and Volatility modeling}
 - Bollerslev, T. (1986). Generalized autoregressive conditional heteroskedasticity. Journal of Econometrics, 31(3), 307-327.
 - Babikir, A., Gupta, R., Mwabutwa, C., & Owusu-Sekyere, E. (2012). Structural breaks and GARCH models of stock return volatility: The case of South Africa. Economic Modelling, 29(6), 2435-2443.
 - Stefan Richter, Weining Wang and Wei Biao Wu (2021) Testing for parameter change epochs in GARCH time series. The Econometrics Journal.
 - Katsouris, C. (2021). Forecast Evaluation in Large Cross-Sections of Realized Volatility. [arXiv preprint:2112.04887](https://arxiv.org/abs/2112.04887).
 
-$\textbf{(E).}$ Testing for autocorrelation in time series models
+$\textbf{(E).}$ $\textbf{Testing for autocorrelation in time series models}$
 - Henshaw Jr, R. C. (1966). Testing single-equation least squares regression models for autocorrelated disturbances. Econometrica: Journal of the Econometric Society, 646-660.
 - Wallis, K. F. (1972). Testing for fourth order autocorrelation in quarterly regression equations. Econometrica: Journal of the Econometric Society, 617-636.
 
