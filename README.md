@@ -104,7 +104,7 @@ values1 <- residuals(garch.estim1, standardize=FALSE)
 
 ```
 
-> Many of the econometric tools and state-of-the-art methodologies we introduce in this course are commonly used by government bodies, regulatory  authorities and   global banks for monitoring financial stability and economic conditions. Specifically, Early Warning Models (EWMs) can be classified into two broad categories, i.e., the models used to assess the performance of the banking sector as well as the models which are used to assess the overall economic and financial conditions for signalling banking, currency or economic crises. 
+Many of the econometric tools and state-of-the-art methodologies we introduce in this course are commonly used by government bodies, regulatory  authorities and   global banks for monitoring financial stability and economic conditions. Specifically, Early Warning Models (EWMs) can be classified into two broad categories, i.e., the models used to assess the performance of the banking sector as well as the models which are used to assess the overall economic and financial conditions for signalling banking, currency or economic crises. 
 
 
 ```R
