@@ -378,7 +378,8 @@ Barro (1974, 1989) argues that the fiscal deficits and the current account defic
 - Tsay, R. S. (2005). Analysis of financial time series. John wiley & sons. (Chapter 4: Nonlinear Models and Their Applications)
 - Bauwens, L., Lubrano, M., & Richard, J. F. (2000). Bayesian inference in dynamic econometric models. OUP Oxford. (Chapter 8: Non-linear Time Series Models)
 - Hamilton, J. D. (1994). Time Series Analysis. Princeton University Press. (Chapter 19: Cointegration)
-- Dhrymes, Phoebus J. (1971). Distributed lags: Problems of Estimation and Formulation. 
+- Dhrymes, Phoebus J. (1971). Distributed lags: Problems of Estimation and Formulation (General reference). 
+- Huynh, V. N., Kreinovich, V., & Sriboonchitta, S. (Eds.). (2014). Modeling dependence in econometrics (Vol. 85). New York, NY: Springer.
 
 # Comments
 
