@@ -252,7 +252,7 @@ In order to obtain insights regarding the finite-sample as well as large-sample 
 
 ## References
 
-$\textbf{(A).}$  $\textbf{Restrospective Testing for Structural Break}$ 
+$\textbf{(A).}$  $\textbf{Restrospective Testing for Structural Breaks}$ 
 - Chow, G. C. (1960). Tests of equality between sets of coefficients in two linear regressions. Econometrica: Journal of the Econometric Society, 591-605.
 - Toyoda, T. (1974). Use of the Chow test under heteroscedasticity. Econometrica: Journal of the Econometric Society, 601-608.
 - Zeileis, A. (2005). A unified approach to structural change tests based on ML scores, F statistics, and OLS residuals. Econometric Reviews, 24(4), 445-466.
