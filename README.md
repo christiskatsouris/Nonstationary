@@ -175,7 +175,7 @@ Notice that the additional assumption of autocorrelated errors can be imposed wh
 
 <img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/monitoring_diff_series_p2.jpg" width="725"/>
 
-<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/monitor1.jpg" width="625"/>
+<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/monitor1.png" width="600"/>
 
 ## References
 
