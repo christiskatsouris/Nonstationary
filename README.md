@@ -39,7 +39,6 @@ d3 <- diff(finance)
 d4 <- diff(bond)
 d5 <- diff(equity)
 d6 <- diff(exchange)
-
 nfci <- d5
 
 # F-TESTS AND DETECTION OF BREAK for model trend and intercept
@@ -59,6 +58,8 @@ plot(bp.nfci)
 bp <- fs.nfci$breakpoint
 
 ```
+
+<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/retrospective_tests.jpg" width="525"/>
 
 ## Example 2: GARCH model (conditional heteroscedasticity)  
 
