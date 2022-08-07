@@ -269,6 +269,7 @@ Obtaining useful insights and information regarding the economic and financial b
 - Horváth, L., Liu, Z., Rice, G., & Wang, S. (2020). Sequential monitoring for changes from stationarity to mild non-stationarity. Journal of Econometrics, 215(1), 209-238.
 - Harvey, D. I., Leybourne, S. J., Sollis, R., & Taylor, A. R. (2021). Real‐time detection of regimes of predictability in the US equity premium. Journal of Applied Econometrics, 36(1), 45-70.
 - Katsouris, C. (2017). Sequential Break-Point Detection in Stationary Time Series: An Application to Monitoring Economic Indicators. [arXiv preprint:2112.06889](https://arxiv.org/abs/2112.06889).
+- Lee, S., Meintanis, S. G., & Pretorius, C. (2022). Monitoring procedures for strict stationarity based on the multivariate characteristic function. Journal of Multivariate Analysis, 189, 104892.
 - Zeileis, A., Leisch, F., Kleiber, C., & Hornik, K. (2005). Monitoring structural change in dynamic econometric models. Journal of Applied Econometrics, 20(1), 99-121.
 - Zeileis, A., Leisch, F., Hornik, K., & Kleiber, C. (2002). strucchange: An R package for testing for structural change in linear regression models. Journal of Statistical Software, 7, 1-38.
 
