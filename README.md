@@ -248,7 +248,7 @@ Obtaining useful insights and information regarding the economic and financial b
 
 ### Statistical Validity of Testing Methodologies: Empirical Size and Power Performance of tests
 
-In order to obtain insights regarding the finite-sample as well as large-sample performance of a statistical testing methodology, we can do a Monte Carlo simulation study, in which we obtain the empirical size (under the null hypothesis) and power (under the alternative hypothesis) of the test statistics under investigation.   
+In order to obtain insights regarding the finite-sample as well as large-sample performance of a statistical testing methodology, we can do a Monte Carlo simulation study. Specifically, with simulation experiments we can obtain the empirical size (under the null hypothesis) and power function (under the alternative hypothesis) for the test statistic(s) under investigation. Since we focus on the sequential monitoring procedures then an additional metric we can also rely in evaluating how well these tests perform under different experimental conditions is the average run length (ARL), which is obtained under the alternative of a structural break within the monitoring period and by comparing these distributions in relation to different locations of the break-point location.    
 
 ## References
 
