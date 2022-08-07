@@ -169,8 +169,9 @@ Using one of the following Statistical Software: [R](https://www.r-project.org/)
 
 Notice that the additional assumption of autocorrelated errors can be imposed when modeling financial time series, however a typical assumption in these models with autocorrelated errors is that the variance of the errors is constant over the sampling points (e.g., in discrete time models). 
 
-<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/monitoring_series.jpg" width="750"/>
+<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/monitoring_series.jpg" width="725"/>
 
+<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/monitoring_diff_series.jpg" width="725"/>
 
 ## References
 
