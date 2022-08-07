@@ -167,7 +167,7 @@ Using one of the following Statistical Software: [R](https://www.r-project.org/)
 
 ## Remarks
 
-- Notice that the additional assumption of autocorrelated errors can be imposed when modeling financial time series, however a typical assumption in these models with autocorrelated errors is that the variance of the errors is constant over the sampling points (e.g., in discrete time models). 
+Notice that the additional assumption of autocorrelated errors can be imposed when modeling financial time series, however a typical assumption in these models with autocorrelated errors is that the variance of the errors is constant over the sampling points (e.g., in discrete time models). 
 
 ## References
 
