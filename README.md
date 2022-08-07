@@ -261,6 +261,7 @@ Obtaining useful insights and information regarding the economic and financial b
 
 - Aue, A., Dienes, C., Fremdt, S., & Steinebach, J. (2015). Reaction times of monitoring schemes for ARMA time series. Bernoulli, 21(2), 1238-1259.
 - Aue, A., Horváth, L., & Reimherr, M. L. (2009). Delay times of sequential procedures for multiple time series regression models. Journal of Econometrics, 149(2), 174-190.
+- Berkes, I., Gombay, E., Horváth, L., & Kokoszka, P. (2004). Sequential change-point detection in GARCH (p, q) models. Econometric theory, 20(6), 1140-1167.
 - Chu, C. S. J., Stinchcombe, M., & White, H. (1996). Monitoring structural change. Econometrica: Journal of the Econometric Society, 1045-1065.
 - Chevallier, J. (2011). Detecting instability in the volatility of carbon prices. Energy Economics, 33(1), 99-110.
 - Dienes, C., & Aue, A. (2014). On‐line monitoring of pollution concentrations with autoregressive moving average time series. Journal of Time Series Analysis, 35(3), 239-261.
