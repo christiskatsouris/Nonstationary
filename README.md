@@ -324,8 +324,9 @@ Although for the purpose of this course, we focus on the implementation of the t
 - Pesaran, M. H., & Pick, A. (2007). Econometric issues in the analysis of contagion. Journal of Economic Dynamics and Control, 31(4), 1245-1277.
 - Yu, P. (2012). Likelihood estimation and inference in threshold regression. Journal of Econometrics, 167(1), 274-294.
 
-<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/GDPtoDebt.jpg" width="725"/>
+<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/GDPtoDebt.jpg" width="850"/>
 
+> Figure above displays the percentage of GDP to Debt for various European countries. 
 
 ## Application 2: Threshold Cointegration Model (Advanced Topics)
 
