@@ -252,7 +252,7 @@ In order to obtain insights regarding the finite-sample as well as large-sample 
 
 <img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/power_functions.jpg" width="800"/>
 
-<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/kernel_densities.jpg" width="825"/>
+<img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/kernel_densities.jpg" width="850"/>
 
 ## References
 
