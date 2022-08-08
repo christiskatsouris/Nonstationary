@@ -254,6 +254,8 @@ In order to obtain insights regarding the finite-sample as well as large-sample 
 
 <img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/kernel_densities.jpg" width="850"/>
 
+> Figure above displays the ARL kernel density plots under the null hypothesis of the sequential monitoring scheme based for the RE and OLS-CUSUM statistics.  
+
 ## References
 
 $\textbf{(A).}$  $\textbf{Restrospective Testing for Structural Breaks}$ 
