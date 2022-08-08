@@ -282,8 +282,10 @@ $\textbf{(C).}$ $\textbf{Sequential Monitoring for Structural Breaks}$
 - Harvey, D. I., Leybourne, S. J., Sollis, R., & Taylor, A. R. (2021). Real‐time detection of regimes of predictability in the US equity premium. Journal of Applied Econometrics, 36(1), 45-70.
 - Katsouris, C. (2017). Sequential Break-Point Detection in Stationary Time Series: An Application to Monitoring Economic Indicators. [arXiv preprint:2112.06889](https://arxiv.org/abs/2112.06889).
 - Lee, S., Meintanis, S. G., & Pretorius, C. (2022). Monitoring procedures for strict stationarity based on the multivariate characteristic function. Journal of Multivariate Analysis, 189, 104892.
+- Wan, R., Fulop, A., & Li, J. (2022). Real-time Bayesian learning and bond return predictability. Journal of Econometrics, 230(1), 114-130.
 - Zeileis, A., Leisch, F., Kleiber, C., & Hornik, K. (2005). Monitoring structural change in dynamic econometric models. Journal of Applied Econometrics, 20(1), 99-121.
 - Zeileis, A., Leisch, F., Hornik, K., & Kleiber, C. (2002). strucchange: An R package for testing for structural change in linear regression models. Journal of Statistical Software, 7, 1-38.
+
 
 $\textbf{(D).}$ $\textbf{Garch and Volatility modeling}$
 - Bollerslev, T. (1986). Generalized autoregressive conditional heteroskedasticity. Journal of Econometrics, 31(3), 307-327.
