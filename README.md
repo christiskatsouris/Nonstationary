@@ -252,9 +252,11 @@ In order to obtain insights regarding the finite-sample as well as large-sample 
 
 <img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/power_functions.jpg" width="800"/>
 
+> Figure above displays the power functions plots of the sequential monitoring scheme under the alternative hypothesis for the OLS-CUSUM, OLS-MOSUM, RE and ME statistics across different break-point locations.  
+
 <img src="https://github.com/christiskatsouris/Nonstationary/blob/main/Data/kernel_densities.jpg" width="850"/>
 
-> Figure above displays the ARL kernel density plots under the null hypothesis of the sequential monitoring scheme based for the RE and OLS-CUSUM statistics.  
+> Figure above displays the ARL kernel density plots of the sequential monitoring scheme under the null hypothesis for the RE and OLS-CUSUM statistics.  
 
 ## References
 
