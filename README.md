@@ -441,3 +441,7 @@ If you are interested to collaborate on any of the topics discussed in this teac
 # How to Cite a Website
 
 See: https://www.mendeley.com/guides/web-citation-guide/
+
+# Historical Background
+
+Abraham Wald (October 1902 – 13 December 1950) was a Jewish Hungarian mathematician who contributed to decision theory, geometry, and econometrics and founded the field of statistical sequential analysis.[1] One of his well-known statistical works was written during World War II on how to minimize the damage to bomber aircraft and took into account the survivorship bias in his calculations. He spent his research career at Columbia University (Source: Wikipedia). 
