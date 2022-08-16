@@ -352,6 +352,7 @@ Although for the purpose of this course, we focus on the implementation of the t
 - Peng, F., Cebula, R. J., Foley, M., & Zhan, K. (2016). Estimation of the liquidity trap using a panel threshold model. Applied Economics Letters, 23(16), 1134-1137.
 - Pesaran, M. H., & Pick, A. (2007). Econometric issues in the analysis of contagion. Journal of Economic Dynamics and Control, 31(4), 1245-1277.
 - Yu, P. (2012). Likelihood estimation and inference in threshold regression. Journal of Econometrics, 167(1), 274-294.
+- Wang, X., Li, J., Ren, X., & Lu, Z. (2022). Exploring the bidirectional causality between green markets and economic policy: evidence from the time-varying Granger test. Environmental Science and Pollution Research, 1-16.
 
 
 ## Application 2: Threshold Cointegration Model (Advanced Topics)
