@@ -307,6 +307,7 @@ $\textbf{(E).}$ $\textbf{Testing for autocorrelation in time series models}$
 
 Modelling nonlinearity (e.g., "changing-regime" dynamics or threshold-type non-linearity) in time series econometrics is commonly captured using threshold autoregressive specifications and threshold regression models. A typology of these models is provided by the nature of the switching function $F(.)$ as well as by the nature of the switching variable which can be either time index (structural change) or a continuous variable (threshold variable). Furthermore, threshold regressions can be also employed for jointly modelling nonstationarity and nonlinearity, although we consider this case as a more advanced application of the current framework.    
 A different but related stream of literature with respect to the econometric identification of threshold effects is the study of "tipping points" and the dynamics of segregation. Related references are: 
+
 - Card, D., Mas, A., & Rothstein, J. (2008). [Tipping and the Dynamics of Segregation](https://academic.oup.com/qje/article/123/1/177/1889797). The Quarterly Journal of Economics, 123(1), 177-218. 
 - Lee, Y., & Wang, Y. (2022). [Testing for Homogeneous Thresholds in Threshold Regression Models](https://www.cambridge.org/core/journals/econometric-theory/article/testing-for-homogeneous-thresholds-in-threshold-regression-models/7A23D7B1AB333A13B6C3117A40BB5895).
 
